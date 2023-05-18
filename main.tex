@@ -1,0 +1,78 @@
+
+
+\documentclass[
+	language=english, % Zu ngerman ändern bei deutschen Arbeiten, zu english bei englischen Arbeiten
+	thesis={type=Seminar Paper}, % type=Seminararbeit, Projektbericht, Seminar Paper, Project Report
+%% Die folgenden Parameter sollten nicht geändert werden
+	class=report,% Basisdokumentenklasse. Wählt die Korrespondierende KOMA-Script Klasse
+	ruledheaders=section,% Ebene bis zu der die Überschriften mit Linien abgetrennt werden, vgl. DEMO-TUDaPub
+	accentcolor=3d,% Auswahl der Akzentfarbe
+	marginpar=false,% Kopfzeile und Fußzeile erstrecken sich nicht über die Randnotizspalte
+	parskip=half-,% Absatzkennzeichnung durch Abstand vgl. KOMA-Script
+	fontsize=11pt,% Basisschriftgröße laut Corporate Design ist mit 9pt häufig zu klein
+	IMRAD=false % Zusätzliche Metadaten nach Wunsch der Universitätsbibliothek deaktivieren
+]{tudapub}
+
+\usepackage[ngerman, main=english]{babel} % ngerman und english bei deutschen Arbeiten tauschen
+\usepackage[autostyle]{csquotes} % Anführungszeichen vereinfacht
+\usepackage{microtype}
+\usepackage[
+    backend=biber,
+    style=ieee,
+    maxbibnames=99,
+  ]{biblatex} % Literaturverzeichnis
+
+\bibliography{bibliography}
+
+\usepackage{acro}
+\usepackage{mfirstuc}% provides \capitalisewords
+\acsetup{list/template=longtable}
+\input{acronyms}
+
+\usepackage{tabularx}   % Tabellen, die sich automatisch der Breite anpassen
+\usepackage{longtable} % Mehrseitige Tabellen
+%\usepackage{xltabular} % Mehrseitige Tabellen mit anpassarer Breite
+\usepackage{booktabs}   % Verbesserte Möglichkeiten für Tabellenlayout über horizontale Linien
+
+\usepackage{pifont}% Zapf-Dingbats Symbole
+\usepackage{subcaption}
+\usepackage{framed}
+
+\input{macros}
+
+
+\begin{document}
+
+\title{Evaluation of exergames}
+\subtitle{Methods and instrument for assessing the quality of exergames}
+\author[F. Surname]{Dustin Grünwald} % optionales Argument ist die Signatur
+\reviewer{Dr.-Ing. (habil.) Stefan Göbel \and Supervisor} % Gutachter
+\department{etit}
+\institute{Serious Games}
+
+
+\Metadata{
+    author=Dustin Grünwald,
+    title=Evaluation of exergames,
+}
+
+\maketitle
+\affidavit % oder \affidavit[digital] falls eine rein digitale Abgabe vorgesehen ist.
+\tableofcontents
+\input{abstract}
+
+This is a citation example \cite{example}.
+
+
+\input{content}
+
+\clearpage
+\chapter*{List of Acronyms}
+\printacronyms[heading={none}]
+
+\appendix
+\input{appendix}
+\languagename
+
+
+\end{document}

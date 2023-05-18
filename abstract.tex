@@ -1,0 +1,28 @@
+\begin{abstract}
+ The abstract goes here...\\
+
+The following tips, as they are often done incorrectly or questions are often asked in this regard. More examples for images, tables, ..., for example, can be found in the other chapters.
+
+\subsection*{Citations}
+We are using biblatex for citations. More information can be found here: https://ctan.org/pkg/biblatex
+\begin{description}
+  \item[\textbackslash{}cite] \flqq These are the bare citation commands. They print the citation without any additions such as parentheses. The numeric and alphabetic styles still wrap the label in square brackets since the reference may be ambiguous otherwise.\frqq{}, \eg{} \cite{BibLaTeX}.
+  
+  \item[\textbackslash{}parencite] \flqq These commands use a format similar to \textbackslash{}cite but enclose the entire citation in parentheses. The numeric and alphabetic styles use square brackets instead.\frqq{}, \eg{} \parencite{BibLaTeX}.
+  
+  \item[\textbackslash{}footcite] \flqq These command use a format similar to \textbackslash{}cite but put the entire citation in a footnote and add a period at the end.\frqq{}, \eg{} \footcite{BibLaTeX}.
+  
+  \item[\textbackslash{}textcite] \flqq These citation commands are provided by all styles that come with this package. They are intended for use in the flow of text, replacing the subject of a sentence. They print the authors or editors followed by a citation label which is enclosed in parentheses. Depending on the citation style, the label may be a number, the year of publication, an abridged version of the title, or something else. The numeric and alphabetic styles use square brackets instead of parentheses. In the verbose styles, the label is provided in a footnote. Trailing punctuation is moved between the author or editor names and the footnote mark.\frqq{}, \eg{} \textcite{BibLaTeX}.
+  
+  \item[\textbackslash{}smartcite] \flqq Like \textbackslash{}parencite in a footnote and like \textbackslash{}footcite in the body.\frqq{}, \eg{} \smartcite{BibLaTeX}.
+  
+  \item[\textbackslash{}supercite] \flqq This command, which is only provided by the numeric styles, prints numeric citations as superscripts without brackets. It uses \textbackslash{}supercitedelim instead of \textbackslash{}multicitedelim as citation delimiter.\frqq{}, \eg{} \supercite{BibLaTeX}.
+  
+\end{description}
+
+More examples can be found in \textit{bibliography.bib}\cite{achenbach2021rock,caserman2020quality,PokemonGO,SGIC,tregel2021looking}.
+
+\subsection*{Acronyms}
+For an easy introduction into used acronyms we are using \textit{acro}. Acronyms are defined in \textit{acronyms.tex} and used by \textbackslash{}ac\{\textit{acronym}\} for the acronym's singular and \textbackslash{}acp\{\textit{acronym}\} for its plural. The first occurence of each acronym will be fully written out: \acp{SG}, \ac{SG}. By using \textbackslash{}acresetall this behavior can be reset.
+
+\end{abstract}

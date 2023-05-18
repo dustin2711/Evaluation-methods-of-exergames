@@ -1,0 +1,233 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{BibLaTeX}{misc}{}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Available: \url{https://ctan.org/pkg/biblatex}}
+      \field{note}{[Letzter Zugriff: 14. October, 2021]}
+      \field{title}{{CTAN: Paket BibLaTeX}}
+    \endentry
+    \entry{achenbach2021rock}{inproceedings}{}
+      \name{author}{5}{}{%
+        {{hash=74e4ab3bbbe907c940ae1addf4efa1d2}{%
+           family={Achenbach},
+           familyi={A\bibinitperiod},
+           given={Philipp},
+           giveni={P\bibinitperiod}}}%
+        {{hash=50cea6778a6c6220a72962ac79decfd7}{%
+           family={Müller},
+           familyi={M\bibinitperiod},
+           given={Philipp\bibnamedelima Niklas},
+           giveni={P\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=db25543f0251fea92bc4e384688d6f93}{%
+           family={Wach},
+           familyi={W\bibinitperiod},
+           given={Tobias\bibnamedelima Alexander},
+           giveni={T\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=e4dc94e3bdba2e308bda6b51c49fd151}{%
+           family={Tregel},
+           familyi={T\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod}}}%
+        {{hash=734d1bc0035a53891feeef74c7d1e409}{%
+           family={Göbel},
+           familyi={G\bibinitperiod},
+           given={Stefan},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{290765f1e713d7bd39cc96e1bdc8b509}
+      \strng{fullhash}{741b560578bff6436297bbde88d5c843}
+      \strng{bibnamehash}{741b560578bff6436297bbde88d5c843}
+      \strng{authorbibnamehash}{741b560578bff6436297bbde88d5c843}
+      \strng{authornamehash}{290765f1e713d7bd39cc96e1bdc8b509}
+      \strng{authorfullhash}{741b560578bff6436297bbde88d5c843}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2021 IEEE International Conference on Pervasive Computing and Communications Workshops and other Affiliated Events (PerCom Workshops)}
+      \field{title}{{Rock beats Scissor: SVM based gesture recognition with data gloves}}
+      \field{year}{2021}
+      \field{pages}{617\bibrangedash 622}
+      \range{pages}{6}
+    \endentry
+    \entry{caserman2020quality}{article}{}
+      \name{author}{8}{}{%
+        {{hash=3a056c8cc3f0353c64ed1f899c0dfce0}{%
+           family={Caserman},
+           familyi={C\bibinitperiod},
+           given={Polona},
+           giveni={P\bibinitperiod}}}%
+        {{hash=067ee40e3b0f0d846346c6b5681e13a8}{%
+           family={Hoffmann},
+           familyi={H\bibinitperiod},
+           given={Katrin},
+           giveni={K\bibinitperiod}}}%
+        {{hash=5649e61cba3a057b81201e7ac631319a}{%
+           family={Müller},
+           familyi={M\bibinitperiod},
+           given={Philipp},
+           giveni={P\bibinitperiod}}}%
+        {{hash=a45d2d70bfe4f5c85018e8a7e74ba16d}{%
+           family={Schaub},
+           familyi={S\bibinitperiod},
+           given={Marcel},
+           giveni={M\bibinitperiod}}}%
+        {{hash=84411faea59c14d49e4cfcbf9520356b}{%
+           family={Straßburg},
+           familyi={S\bibinitperiod},
+           given={Katharina},
+           giveni={K\bibinitperiod}}}%
+        {{hash=6c21d1bf31128cfe82abb995af349cd6}{%
+           family={Wiemeyer},
+           familyi={W\bibinitperiod},
+           given={Josef},
+           giveni={J\bibinitperiod}}}%
+        {{hash=13ece5554037f500d5e62915090cf89e}{%
+           family={Bruder},
+           familyi={B\bibinitperiod},
+           given={Regina},
+           giveni={R\bibinitperiod}}}%
+        {{hash=734d1bc0035a53891feeef74c7d1e409}{%
+           family={Göbel},
+           familyi={G\bibinitperiod},
+           given={Stefan},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{a012ceedf1aa01fce598a15a450807fd}
+      \strng{fullhash}{b581f1b34bc94d389b3a986b02fa5e8a}
+      \strng{bibnamehash}{b581f1b34bc94d389b3a986b02fa5e8a}
+      \strng{authorbibnamehash}{b581f1b34bc94d389b3a986b02fa5e8a}
+      \strng{authornamehash}{a012ceedf1aa01fce598a15a450807fd}
+      \strng{authorfullhash}{b581f1b34bc94d389b3a986b02fa5e8a}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{JMIR Serious Games}
+      \field{month}{04}
+      \field{number}{3}
+      \field{title}{{Quality Criteria for Serious Games: Serious Part, Game Part, and Balance}}
+      \field{volume}{8}
+      \field{year}{2020}
+      \verb{doi}
+      \verb 10.2196/19037
+      \endverb
+    \endentry
+    \entry{PokemonGO}{misc}{}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{{The Pokémon Company, Nintendo. Niantic, Inc.}}
+      \field{note}{Android, iOS}
+      \field{title}{{Pokémon GO}}
+      \field{year}{2016}
+    \endentry
+    \entry{SGIC}{misc}{}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Available: \url{https://seriousgames-portal.org/}}
+      \field{note}{[Letzter Zugriff: 31. Februar, 2099]}
+      \field{title}{{Serious Games Information Center}}
+    \endentry
+    \entry{tregel2021looking}{article}{}
+      \name{author}{4}{}{%
+        {{hash=e4dc94e3bdba2e308bda6b51c49fd151}{%
+           family={Tregel},
+           familyi={T\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod}}}%
+        {{hash=50cea6778a6c6220a72962ac79decfd7}{%
+           family={Müller},
+           familyi={M\bibinitperiod},
+           given={Philipp\bibnamedelima Niklas},
+           giveni={P\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=734d1bc0035a53891feeef74c7d1e409}{%
+           family={Göbel},
+           familyi={G\bibinitperiod},
+           given={Stefan},
+           giveni={S\bibinitperiod}}}%
+        {{hash=9eea3638fa9a97f4054f44f5e740579c}{%
+           family={Steinmetz},
+           familyi={S\bibinitperiod},
+           given={Ralf},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{55b2f082f685e6c51568c6d1c257112a}
+      \strng{fullhash}{afebad0340a5196dfa8d0515cc729b45}
+      \strng{bibnamehash}{afebad0340a5196dfa8d0515cc729b45}
+      \strng{authorbibnamehash}{afebad0340a5196dfa8d0515cc729b45}
+      \strng{authornamehash}{55b2f082f685e6c51568c6d1c257112a}
+      \strng{authorfullhash}{afebad0340a5196dfa8d0515cc729b45}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Visual Computer}
+      \field{number}{1}
+      \field{title}{{Looking for Charizard: applying the orienteering problem to location-based games}}
+      \field{volume}{37}
+      \field{year}{2021}
+      \field{pages}{31\bibrangedash 45}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1007/s00371-019-01737-z
+      \endverb
+    \endentry
+    \entry{example}{article}{}
+      \name{author}{1}{}{%
+        {{hash=93ac363f8ff6e0208f346008d45b6085}{%
+           family={Author},
+           familyi={A\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{93ac363f8ff6e0208f346008d45b6085}
+      \strng{fullhash}{93ac363f8ff6e0208f346008d45b6085}
+      \strng{bibnamehash}{93ac363f8ff6e0208f346008d45b6085}
+      \strng{authorbibnamehash}{93ac363f8ff6e0208f346008d45b6085}
+      \strng{authornamehash}{93ac363f8ff6e0208f346008d45b6085}
+      \strng{authorfullhash}{93ac363f8ff6e0208f346008d45b6085}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Examples}
+      \field{number}{1}
+      \field{title}{Example Article}
+      \field{volume}{1}
+      \field{year}{2023}
+      \field{pages}{1\bibrangedash 10}
+      \range{pages}{10}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

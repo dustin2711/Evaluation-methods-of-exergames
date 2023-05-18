@@ -1,0 +1,42 @@
+%%%%%%%%%%%%%%%%%%%
+% weitere Einstellungen
+%%%%%%%%%%%%%%%%%%%
+\ifthenelse{\equal{\languagename}{english}}{
+    \setupReviewName*{Reviewer,Supervisor}
+}{
+    \setupReviewName*{Gutachter,Betreuer}
+}
+
+%%%%%%%%%%%%%%%%%%%
+% vordefinierte Zeichen(folgen)
+%%%%%%%%%%%%%%%%%%%
+\newcommand*{\FeatureTrue}{\ding{51}}
+\newcommand*{\FeatureFalse}{\ding{55}}
+\newcommand*{\FeatureNone}{\,\,-\,\,}
+
+\newcommand{\ie}{i.\,e.}
+\newcommand{\Ie}{I.\,e.}
+\newcommand{\eg}{e.\,g.}
+\newcommand{\Eg}{E.\,g.} 
+\newcommand{\ia}{i.\,a.}
+\newcommand{\etal}{et al.} 
+
+%%%%%%%%%%%%%%%%%%%
+% vordefinierte weitere Makros
+%%%%%%%%%%%%%%%%%%%
+\newboolean{final}
+\setboolean{final}{false} % set false for removing comments
+
+\ifthenelse{\boolean{final}}{
+    \newcommand{\hint}[1]{}
+	\newcommand{\Add}[1]{#1}
+	\newcommand{\Delete}[1]{}
+	\newcommand{\Rewrite}[1]{#1}
+	\newcommand{\tocite}[0]{}
+}{
+    \newcommand{\hint}[1]{\textcolor{teal}{	\begin{framed} \noindent \underline{Hint:}\\ \newline #1 \end{framed}}}
+    \newcommand{\Add}[1]{{\color{red!80!black}#1}}
+	\newcommand{\Delete}[1]{{\color{gray!50}#1}}
+    \newcommand{\Rewrite}[1]{{\color{orange!80!black}#1}}
+  	\newcommand{\tocite}[0]{{\color{red!80!black}[TOCITE]}}
+}
