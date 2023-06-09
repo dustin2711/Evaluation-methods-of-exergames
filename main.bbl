@@ -19,60 +19,204 @@
 
 \refsection{0}
   \datalist[entry]{none/global//global/global}
-    \entry{BibLaTeX}{misc}{}
+    \entry{santos2020active}{article}{}
+      \name{author}{9}{}{%
+        {{hash=79b7fde8cc02bd351b6de8a06ab2e147}{%
+           family={Santos},
+           familyi={S\bibinitperiod},
+           given={Isis\bibnamedelima Kelly},
+           giveni={I\bibinitperiod\bibinitdelim K\bibinitperiod},
+           prefix={dos},
+           prefixi={d\bibinitperiod}}}%
+        {{hash=f350c85d9228995b16202117e2c97bf3}{%
+           family={Silva\bibnamedelimb Cunha\bibnamedelimb de\bibnamedelima Medeiros},
+           familyi={S\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim M\bibinitperiod},
+           given={Rafaela\bibnamedelima Catherine},
+           giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod},
+           prefix={da},
+           prefixi={d\bibinitperiod}}}%
+        {{hash=05fe57fa42c4b108396955eadd120dfd}{%
+           family={Medeiros},
+           familyi={M\bibinitperiod},
+           given={Jason\bibnamedelima Azevedo},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
+        {{hash=70c4246286f02ba4953c8d6b77a89771}{%
+           family={Almeida-Neto},
+           familyi={A\bibinithyphendelim N\bibinitperiod},
+           given={Paulo\bibnamedelima Francisco},
+           giveni={P\bibinitperiod\bibinitdelim F\bibinitperiod},
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
+        {{hash=cb5c0d0545200843f1d080b73f345919}{%
+           family={Sena},
+           familyi={S\bibinitperiod},
+           given={Dianne\bibnamedelimb Cristina\bibnamedelima Souza},
+           giveni={D\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim S\bibinitperiod},
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
+        {{hash=f1f483f18bbcca8e42e45bfcbb4227b5}{%
+           family={Cobucci},
+           familyi={C\bibinitperiod},
+           given={Ricardo\bibnamedelima Ney},
+           giveni={R\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=2563ec886c30f115dfb868867f41c8b2}{%
+           family={Oliveira},
+           familyi={O\bibinitperiod},
+           given={Ricardo\bibnamedelima Santos},
+           giveni={R\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=cccf6f6078018b0b71fbd58eccbc70f6}{%
+           family={Araújo\bibnamedelimb Tinoco\bibnamedelima Cabral},
+           familyi={A\bibinitperiod\bibinitdelim T\bibinitperiod\bibinitdelim C\bibinitperiod},
+           given={Breno\bibnamedelima Guilherme},
+           giveni={B\bibinitperiod\bibinitdelim G\bibinitperiod},
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
+        {{hash=4e7cc6e75962b176f2ac31d6364651fc}{%
+           family={Dantas},
+           familyi={D\bibinitperiod},
+           given={Paulo\bibnamedelimb Moreira\bibnamedelima Silva},
+           giveni={P\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \strng{namehash}{90800239b879977b27df562731a6bb9a}
+      \strng{fullhash}{cc80fedccf1ca884999046e08d7dc030}
+      \strng{bibnamehash}{cc80fedccf1ca884999046e08d7dc030}
+      \strng{authorbibnamehash}{cc80fedccf1ca884999046e08d7dc030}
+      \strng{authornamehash}{90800239b879977b27df562731a6bb9a}
+      \strng{authorfullhash}{cc80fedccf1ca884999046e08d7dc030}
       \field{sortinit}{1}
       \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{howpublished}{Available: \url{https://ctan.org/pkg/biblatex}}
-      \field{note}{[Letzter Zugriff: 14. October, 2021]}
-      \field{title}{{CTAN: Paket BibLaTeX}}
+      \field{title}{Active Video Games for Improving Mental Health and Physical Fitness - An alternative for children and adoloscents during social isolation; an overview}
+      \field{year}{2020}
     \endentry
-    \entry{achenbach2021rock}{inproceedings}{}
-      \name{author}{5}{}{%
-        {{hash=74e4ab3bbbe907c940ae1addf4efa1d2}{%
-           family={Achenbach},
-           familyi={A\bibinitperiod},
-           given={Philipp},
-           giveni={P\bibinitperiod}}}%
-        {{hash=50cea6778a6c6220a72962ac79decfd7}{%
-           family={Müller},
-           familyi={M\bibinitperiod},
-           given={Philipp\bibnamedelima Niklas},
-           giveni={P\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
-        {{hash=db25543f0251fea92bc4e384688d6f93}{%
-           family={Wach},
-           familyi={W\bibinitperiod},
-           given={Tobias\bibnamedelima Alexander},
-           giveni={T\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-        {{hash=e4dc94e3bdba2e308bda6b51c49fd151}{%
-           family={Tregel},
-           familyi={T\bibinitperiod},
-           given={Thomas},
-           giveni={T\bibinitperiod}}}%
-        {{hash=734d1bc0035a53891feeef74c7d1e409}{%
-           family={Göbel},
-           familyi={G\bibinitperiod},
-           given={Stefan},
-           giveni={S\bibinitperiod}}}%
+    \entry{melchior2014internet}{article}{}
+      \name{author}{1}{}{%
+        {{hash=eff50bb852e73d1fd010dc2c15e0784d}{%
+           family={Melchior},
+           familyi={M\bibinitperiod}}}%
       }
-      \list{organization}{1}{%
-        {IEEE}%
+      \strng{namehash}{eff50bb852e73d1fd010dc2c15e0784d}
+      \strng{fullhash}{eff50bb852e73d1fd010dc2c15e0784d}
+      \strng{bibnamehash}{eff50bb852e73d1fd010dc2c15e0784d}
+      \strng{authorbibnamehash}{eff50bb852e73d1fd010dc2c15e0784d}
+      \strng{authornamehash}{eff50bb852e73d1fd010dc2c15e0784d}
+      \strng{authorfullhash}{eff50bb852e73d1fd010dc2c15e0784d}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Internet and video game use in relation to overweight in young adults}
+      \field{year}{2014}
+    \endentry
+    \entry{kowert2014unpopular}{article}{}
+      \name{author}{1}{}{%
+        {{hash=605d48cd9ed231dae7e00c05f34f28ee}{%
+           family={Kowert},
+           familyi={K\bibinitperiod}}}%
       }
-      \strng{namehash}{290765f1e713d7bd39cc96e1bdc8b509}
-      \strng{fullhash}{741b560578bff6436297bbde88d5c843}
-      \strng{bibnamehash}{741b560578bff6436297bbde88d5c843}
-      \strng{authorbibnamehash}{741b560578bff6436297bbde88d5c843}
-      \strng{authornamehash}{290765f1e713d7bd39cc96e1bdc8b509}
-      \strng{authorfullhash}{741b560578bff6436297bbde88d5c843}
+      \strng{namehash}{605d48cd9ed231dae7e00c05f34f28ee}
+      \strng{fullhash}{605d48cd9ed231dae7e00c05f34f28ee}
+      \strng{bibnamehash}{605d48cd9ed231dae7e00c05f34f28ee}
+      \strng{authorbibnamehash}{605d48cd9ed231dae7e00c05f34f28ee}
+      \strng{authornamehash}{605d48cd9ed231dae7e00c05f34f28ee}
+      \strng{authorfullhash}{605d48cd9ed231dae7e00c05f34f28ee}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Unpopular, Overweight, and Socially Inept; Reconsidering the stereotype of online gamers}
+      \field{year}{2014}
+    \endentry
+    \entry{lai2013effects}{article}{}
+      \name{author}{1}{}{%
+        {{hash=3dfcfa1d02366258f32d52f80ee3fbfe}{%
+           family={Lai},
+           familyi={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{3dfcfa1d02366258f32d52f80ee3fbfe}
+      \strng{fullhash}{3dfcfa1d02366258f32d52f80ee3fbfe}
+      \strng{bibnamehash}{3dfcfa1d02366258f32d52f80ee3fbfe}
+      \strng{authorbibnamehash}{3dfcfa1d02366258f32d52f80ee3fbfe}
+      \strng{authornamehash}{3dfcfa1d02366258f32d52f80ee3fbfe}
+      \strng{authorfullhash}{3dfcfa1d02366258f32d52f80ee3fbfe}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Effects of interactive video-game based system exercise on the balance of the}
+      \field{year}{2013}
+    \endentry
+    \entry{khamzina2019impact}{article}{}
+      \name{author}{1}{}{%
+        {{hash=87be63aca59b1b22c281a8da17db7006}{%
+           family={Khamzina},
+           familyi={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{87be63aca59b1b22c281a8da17db7006}
+      \strng{fullhash}{87be63aca59b1b22c281a8da17db7006}
+      \strng{bibnamehash}{87be63aca59b1b22c281a8da17db7006}
+      \strng{authorbibnamehash}{87be63aca59b1b22c281a8da17db7006}
+      \strng{authornamehash}{87be63aca59b1b22c281a8da17db7006}
+      \strng{authorfullhash}{87be63aca59b1b22c281a8da17db7006}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Impact of Pokemon Go on Physical Activity}
+      \field{year}{2019}
+    \endentry
+    \entry{link_pokemongo}{misc}{}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{howpublished}{\url{https://en wikipedia.org/wiki/List_of_most-played_mobile_games_by_player_count}}
+      \field{note}{[Online; accessed 31-May-2023]}
+    \endentry
+    \entry{baranowski2012impact}{article}{}
+      \name{author}{1}{}{%
+        {{hash=93d9f4f9c7924da4fc81431dab53629a}{%
+           family={Baranowski},
+           familyi={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{93d9f4f9c7924da4fc81431dab53629a}
+      \strng{fullhash}{93d9f4f9c7924da4fc81431dab53629a}
+      \strng{bibnamehash}{93d9f4f9c7924da4fc81431dab53629a}
+      \strng{authorbibnamehash}{93d9f4f9c7924da4fc81431dab53629a}
+      \strng{authornamehash}{93d9f4f9c7924da4fc81431dab53629a}
+      \strng{authorfullhash}{93d9f4f9c7924da4fc81431dab53629a}
       \field{sortinit}{8}
       \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{2021 IEEE International Conference on Pervasive Computing and Communications Workshops and other Affiliated Events (PerCom Workshops)}
-      \field{title}{{Rock beats Scissor: SVM based gesture recognition with data gloves}}
-      \field{year}{2021}
-      \field{pages}{617\bibrangedash 622}
-      \range{pages}{6}
+      \field{title}{Impact of an Active Video Game on Healthy Children’s Physical Activity}
+      \field{year}{2012}
+    \endentry
+    \entry{link_remission}{misc}{}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{howpublished}{\url{https://www.re-mission2.org}}
+      \field{note}{{"[Online; accessed 31-May-2023]"}}
+    \endentry
+    \entry{kato2008video}{article}{}
+      \name{author}{1}{}{%
+        {{hash=87380c6485a2e8e6c7c9f0d9726bee41}{%
+           family={Kato},
+           familyi={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{87380c6485a2e8e6c7c9f0d9726bee41}
+      \strng{fullhash}{87380c6485a2e8e6c7c9f0d9726bee41}
+      \strng{bibnamehash}{87380c6485a2e8e6c7c9f0d9726bee41}
+      \strng{authorbibnamehash}{87380c6485a2e8e6c7c9f0d9726bee41}
+      \strng{authornamehash}{87380c6485a2e8e6c7c9f0d9726bee41}
+      \strng{authorfullhash}{87380c6485a2e8e6c7c9f0d9726bee41}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{A video game improves behavioral outcomes in adolescents and young adults with cancer a randomized trial}
+      \field{year}{2008}
     \endentry
     \entry{caserman2020quality}{article}{}
       \name{author}{8}{}{%
@@ -123,111 +267,881 @@
       \strng{authorbibnamehash}{b581f1b34bc94d389b3a986b02fa5e8a}
       \strng{authornamehash}{a012ceedf1aa01fce598a15a450807fd}
       \strng{authorfullhash}{b581f1b34bc94d389b3a986b02fa5e8a}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{JMIR Serious Games}
       \field{month}{04}
       \field{number}{3}
-      \field{title}{{Quality Criteria for Serious Games: Serious Part, Game Part, and Balance}}
+      \field{title}{{Quality Criteria2 for Serious Games: Serious Part, Game Part, and Balance}}
       \field{volume}{8}
       \field{year}{2020}
       \verb{doi}
       \verb 10.2196/19037
       \endverb
     \endentry
-    \entry{PokemonGO}{misc}{}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+    \entry{fogel2010effects}{article}{}
+      \name{author}{1}{}{%
+        {{hash=882814c08696544989034b36becd764d}{%
+           family={Fogel},
+           familyi={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{882814c08696544989034b36becd764d}
+      \strng{fullhash}{882814c08696544989034b36becd764d}
+      \strng{bibnamehash}{882814c08696544989034b36becd764d}
+      \strng{authorbibnamehash}{882814c08696544989034b36becd764d}
+      \strng{authornamehash}{882814c08696544989034b36becd764d}
+      \strng{authorfullhash}{882814c08696544989034b36becd764d}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{howpublished}{{The Pokémon Company, Nintendo. Niantic, Inc.}}
-      \field{note}{Android, iOS}
-      \field{title}{{Pokémon GO}}
-      \field{year}{2016}
+      \field{title}{Effects of exergaming on physical activity among inactive children}
+      \field{year}{2010}
     \endentry
-    \entry{SGIC}{misc}{}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+    \entry{peng2011playing}{article}{}
+      \name{author}{1}{}{%
+        {{hash=2c555eca2074a5a1b9fb895d3ae8f2ef}{%
+           family={Peng},
+           familyi={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{2c555eca2074a5a1b9fb895d3ae8f2ef}
+      \strng{fullhash}{2c555eca2074a5a1b9fb895d3ae8f2ef}
+      \strng{bibnamehash}{2c555eca2074a5a1b9fb895d3ae8f2ef}
+      \strng{authorbibnamehash}{2c555eca2074a5a1b9fb895d3ae8f2ef}
+      \strng{authornamehash}{2c555eca2074a5a1b9fb895d3ae8f2ef}
+      \strng{authorfullhash}{2c555eca2074a5a1b9fb895d3ae8f2ef}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{howpublished}{Available: \url{https://seriousgames-portal.org/}}
-      \field{note}{[Letzter Zugriff: 31. Februar, 2099]}
-      \field{title}{{Serious Games Information Center}}
+      \field{title}{Is Playing Exergames Really Exercising A meta-analysis of energy expenditure in active video games}
+      \field{year}{2011}
     \endentry
-    \entry{tregel2021looking}{article}{}
-      \name{author}{4}{}{%
-        {{hash=e4dc94e3bdba2e308bda6b51c49fd151}{%
-           family={Tregel},
-           familyi={T\bibinitperiod},
-           given={Thomas},
-           giveni={T\bibinitperiod}}}%
-        {{hash=50cea6778a6c6220a72962ac79decfd7}{%
-           family={Müller},
-           familyi={M\bibinitperiod},
-           given={Philipp\bibnamedelima Niklas},
-           giveni={P\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
-        {{hash=734d1bc0035a53891feeef74c7d1e409}{%
-           family={Göbel},
-           familyi={G\bibinitperiod},
-           given={Stefan},
+    \entry{hortobagyi2012effects}{article}{}
+      \name{author}{1}{}{%
+        {{hash=0b1226848eaac5330dd855455fcafd9d}{%
+           family={Hortobagyi},
+           familyi={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{0b1226848eaac5330dd855455fcafd9d}
+      \strng{fullhash}{0b1226848eaac5330dd855455fcafd9d}
+      \strng{bibnamehash}{0b1226848eaac5330dd855455fcafd9d}
+      \strng{authorbibnamehash}{0b1226848eaac5330dd855455fcafd9d}
+      \strng{authornamehash}{0b1226848eaac5330dd855455fcafd9d}
+      \strng{authorfullhash}{0b1226848eaac5330dd855455fcafd9d}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Effects of Exercise Dose and Detraining Duration of Mobility at late midlife; a randomized clinical trial}
+      \field{year}{2021}
+    \endentry
+    \entry{makivic2013heart}{article}{}
+      \name{author}{1}{}{%
+        {{hash=b03b3bb3c921782099248dee272e07c3}{%
+           family={Makivic},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{b03b3bb3c921782099248dee272e07c3}
+      \strng{fullhash}{b03b3bb3c921782099248dee272e07c3}
+      \strng{bibnamehash}{b03b3bb3c921782099248dee272e07c3}
+      \strng{authorbibnamehash}{b03b3bb3c921782099248dee272e07c3}
+      \strng{authornamehash}{b03b3bb3c921782099248dee272e07c3}
+      \strng{authorfullhash}{b03b3bb3c921782099248dee272e07c3}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Heart Rate Variability (HRV) as a Tool for Diagnostic and Monitoring Performance in Sport and Physical Activities}
+      \field{year}{2013}
+    \endentry
+    \entry{boettger2010heart}{article}{}
+      \name{author}{7}{}{%
+        {{hash=0b09f25cfc5f87cf526825356e94bf1d}{%
+           family={BOETTGER},
+           familyi={B\bibinitperiod},
+           given={SILKE},
            giveni={S\bibinitperiod}}}%
-        {{hash=9eea3638fa9a97f4054f44f5e740579c}{%
-           family={Steinmetz},
-           familyi={S\bibinitperiod},
-           given={Ralf},
+        {{hash=fc48ea000d7b784b6cd131ab6e248604}{%
+           family={PUTA},
+           familyi={P\bibinitperiod},
+           given={CHRISTIAN},
+           giveni={C\bibinitperiod}}}%
+        {{hash=058efb9cb00064ff16b89c65cd12e333}{%
+           family={YERAGANI},
+           familyi={Y\bibinitperiod},
+           given={VIKRAM\bibnamedelima K.},
+           giveni={V\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=e2da9878c217018062eca78702ad60a2}{%
+           family={DONATH},
+           familyi={D\bibinitperiod},
+           given={LARS},
+           giveni={L\bibinitperiod}}}%
+        {{hash=e7ad866e39fe94aebe48cd3196cdaf93}{%
+           family={MÜLLER},
+           familyi={M\bibinitperiod},
+           given={HANS-JOSEF},
+           giveni={H\bibinithyphendelim J\bibinitperiod}}}%
+        {{hash=9d1d15c7adee1b4d27e8a0fea3b59ddd}{%
+           family={GABRIEL},
+           familyi={G\bibinitperiod},
+           given={HOLGER\bibnamedelimb H.\bibnamedelimi W.},
+           giveni={H\bibinitperiod\bibinitdelim H\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=4b5639a016931649b522cae348be00ee}{%
+           family={BÄR},
+           familyi={B\bibinitperiod},
+           given={KARL-JUÜRGEN},
+           giveni={K\bibinithyphendelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{377f509f36b61218c45b680f4658d706}
+      \strng{fullhash}{267b486285120e9dc99a7d258ebbc3b4}
+      \strng{bibnamehash}{267b486285120e9dc99a7d258ebbc3b4}
+      \strng{authorbibnamehash}{267b486285120e9dc99a7d258ebbc3b4}
+      \strng{authornamehash}{377f509f36b61218c45b680f4658d706}
+      \strng{authorfullhash}{267b486285120e9dc99a7d258ebbc3b4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Heart Rate Variability, QT Variability, and Electrodermal Activity during Exercise}
+      \field{year}{2010}
+    \endentry
+    \entry{haskell2007recommendation}{article}{}
+      \name{author}{1}{}{%
+        {{hash=a59b783ba97fcd85891ddb2e62fbfebb}{%
+           family={Haskell},
+           familyi={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{a59b783ba97fcd85891ddb2e62fbfebb}
+      \strng{fullhash}{a59b783ba97fcd85891ddb2e62fbfebb}
+      \strng{bibnamehash}{a59b783ba97fcd85891ddb2e62fbfebb}
+      \strng{authorbibnamehash}{a59b783ba97fcd85891ddb2e62fbfebb}
+      \strng{authornamehash}{a59b783ba97fcd85891ddb2e62fbfebb}
+      \strng{authorfullhash}{a59b783ba97fcd85891ddb2e62fbfebb}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Updated Recommendation for Adults From the American College of Sport Midicine and the American Heart Association}
+      \field{year}{2007}
+    \endentry
+    \entry{poels2007game}{article}{}
+      \name{author}{1}{}{%
+        {{hash=270c25033d8e250865934a5d8b1fec4d}{%
+           family={Poels},
+           familyi={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{270c25033d8e250865934a5d8b1fec4d}
+      \strng{fullhash}{270c25033d8e250865934a5d8b1fec4d}
+      \strng{bibnamehash}{270c25033d8e250865934a5d8b1fec4d}
+      \strng{authorbibnamehash}{270c25033d8e250865934a5d8b1fec4d}
+      \strng{authornamehash}{270c25033d8e250865934a5d8b1fec4d}
+      \strng{authorfullhash}{270c25033d8e250865934a5d8b1fec4d}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Game Experience Questionnaire}
+      \field{year}{2007}
+    \endentry
+    \entry{johnson2018validation}{article}{}
+      \name{author}{3}{}{%
+        {{hash=2fc43e3d0810d31ef1843085ed53cdaa}{%
+           family={Johnson},
+           familyi={J\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod}}}%
+        {{hash=c898fadee1ef1968564c1e5b8a5f832d}{%
+           family={Gardner},
+           familyi={G\bibinitperiod},
+           given={M.\bibnamedelimi John},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=8b6b55716649e60a4a1ab46eaa83155c}{%
+           family={Perry},
+           familyi={P\bibinitperiod},
+           given={Ryan},
            giveni={R\bibinitperiod}}}%
       }
-      \list{publisher}{1}{%
-        {Springer}%
-      }
-      \strng{namehash}{55b2f082f685e6c51568c6d1c257112a}
-      \strng{fullhash}{afebad0340a5196dfa8d0515cc729b45}
-      \strng{bibnamehash}{afebad0340a5196dfa8d0515cc729b45}
-      \strng{authorbibnamehash}{afebad0340a5196dfa8d0515cc729b45}
-      \strng{authornamehash}{55b2f082f685e6c51568c6d1c257112a}
-      \strng{authorfullhash}{afebad0340a5196dfa8d0515cc729b45}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \strng{namehash}{c6645555273492cb6d0f683ffabf0d2e}
+      \strng{fullhash}{c6645555273492cb6d0f683ffabf0d2e}
+      \strng{bibnamehash}{c6645555273492cb6d0f683ffabf0d2e}
+      \strng{authorbibnamehash}{c6645555273492cb6d0f683ffabf0d2e}
+      \strng{authornamehash}{c6645555273492cb6d0f683ffabf0d2e}
+      \strng{authorfullhash}{c6645555273492cb6d0f683ffabf0d2e}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{The Visual Computer}
-      \field{number}{1}
-      \field{title}{{Looking for Charizard: applying the orienteering problem to location-based games}}
-      \field{volume}{37}
+      \field{title}{Validation of two game experience scales: The Player Experience of Need Satisfaction (PENS) and Game Experience Questionnaire (GEQ)}
+      \field{year}{2018}
+    \endentry
+    \entry{rigby2007player}{article}{}
+      \name{author}{1}{}{%
+        {{hash=6041b5b45ded46a44702668189275129}{%
+           family={Rigby},
+           familyi={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{6041b5b45ded46a44702668189275129}
+      \strng{fullhash}{6041b5b45ded46a44702668189275129}
+      \strng{bibnamehash}{6041b5b45ded46a44702668189275129}
+      \strng{authorbibnamehash}{6041b5b45ded46a44702668189275129}
+      \strng{authornamehash}{6041b5b45ded46a44702668189275129}
+      \strng{authorfullhash}{6041b5b45ded46a44702668189275129}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Player Experience of Need Satisfaction (PENS)}
+      \field{year}{2007}
+    \endentry
+    \entry{pietrabissa2020development}{article}{}
+      \name{author}{7}{}{%
+        {{hash=28fed0c9c4fcff3ace9d9cbe465e6385}{%
+           family={Pietrabissa},
+           familyi={P\bibinitperiod},
+           given={Giada},
+           giveni={G\bibinitperiod}}}%
+        {{hash=7a2eede0eddc0580f09915845a0a33be}{%
+           family={Rossi},
+           familyi={R\bibinitperiod},
+           given={Alessandro},
+           giveni={A\bibinitperiod}}}%
+        {{hash=50434fb231c463381f10df25031dc322}{%
+           family={Borrello},
+           familyi={B\bibinitperiod},
+           given={Maria},
+           giveni={M\bibinitperiod}}}%
+        {{hash=c1b1020240ad82af741e67777c4a0b1e}{%
+           family={Manzoni},
+           familyi={M\bibinitperiod},
+           given={Gian\bibnamedelima Mauro},
+           giveni={G\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=bde3357e0789a3007631dcc0047493be}{%
+           family={Mannarini},
+           familyi={M\bibinitperiod},
+           given={Stefania},
+           giveni={S\bibinitperiod}}}%
+        {{hash=4c2e10fa2698fb249cbf68a7cfafcfaa}{%
+           family={Castelnuovo},
+           familyi={C\bibinitperiod},
+           given={Gianluca},
+           giveni={G\bibinitperiod}}}%
+        {{hash=10c46895c1995475b65698f71a9def63}{%
+           family={Molinari},
+           familyi={M\bibinitperiod},
+           given={Enrico},
+           giveni={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{017daeb386ea9ebfcfc37c56778bf70f}
+      \strng{fullhash}{72685a88cc9ccee2f082e124c4a1929b}
+      \strng{bibnamehash}{72685a88cc9ccee2f082e124c4a1929b}
+      \strng{authorbibnamehash}{72685a88cc9ccee2f082e124c4a1929b}
+      \strng{authornamehash}{017daeb386ea9ebfcfc37c56778bf70f}
+      \strng{authorfullhash}{72685a88cc9ccee2f082e124c4a1929b}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Development and Validation of a Self-Determination Theory-Based Measure of Motivation to Exercise and Diet in Childrent}
+      \field{year}{2020}
+    \endentry
+    \entry{lohmann2017measuring}{article}{}
+      \name{author}{7}{}{%
+        {{hash=d37cd3de058330d7987810b39907e29a}{%
+           family={Lohmann},
+           familyi={L\bibinitperiod},
+           given={Julia},
+           giveni={J\bibinitperiod}}}%
+        {{hash=959560f257d58bb205c5e43cdbd050a6}{%
+           family={Souares},
+           familyi={S\bibinitperiod},
+           given={Aurélia},
+           giveni={A\bibinitperiod}}}%
+        {{hash=e24d25be131c1e27e2ee2c4a61e8f315}{%
+           family={Tiendrebéogo},
+           familyi={T\bibinitperiod},
+           given={Justin},
+           giveni={J\bibinitperiod}}}%
+        {{hash=61d00b3a6465d3f56fb83aff6c5211ba}{%
+           family={Houlfort},
+           familyi={H\bibinitperiod},
+           given={Nathalie},
+           giveni={N\bibinitperiod}}}%
+        {{hash=22a7042c719e3b97e92610ecbecac4bd}{%
+           family={Robyn},
+           familyi={R\bibinitperiod},
+           given={Paul\bibnamedelima Jacob},
+           giveni={P\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=5d9069f1c453f0c85ae73ac02195920d}{%
+           family={Somda},
+           familyi={S\bibinitperiod},
+           given={Serge\bibnamedelimb M.\bibnamedelimi A.},
+           giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=689c5912b3eb19c7f7b33d8bc7dbf10d}{%
+           family={Allegri},
+           familyi={A\bibinitperiod},
+           given={Manuela\bibnamedelima De},
+           giveni={M\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \strng{namehash}{ef760e787333973beadd5e86d1f4036d}
+      \strng{fullhash}{49e6699bfcc27f3a255840bed70043fe}
+      \strng{bibnamehash}{49e6699bfcc27f3a255840bed70043fe}
+      \strng{authorbibnamehash}{49e6699bfcc27f3a255840bed70043fe}
+      \strng{authornamehash}{ef760e787333973beadd5e86d1f4036d}
+      \strng{authorfullhash}{49e6699bfcc27f3a255840bed70043fe}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Measuring health workers’ motivation composition validation of a scale based on Self-Determination Theory in Burkina Faso}
+      \field{year}{2017}
+    \endentry
+    \entry{richards2021further}{article}{}
+      \name{author}{3}{}{%
+        {{hash=429e43a1da0e77f198b713a5a8dc394c}{%
+           family={Richards},
+           familyi={R\bibinitperiod},
+           given={Dylan\bibnamedelima K.},
+           giveni={D\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=ee3e509f0d40890bbe34824ad912558f}{%
+           family={Pearson},
+           familyi={P\bibinitperiod},
+           given={Matthew\bibnamedelima R.},
+           giveni={M\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=df412c71a86e8c4eaab431c39245e482}{%
+           family={Field},
+           familyi={F\bibinitperiod},
+           given={Craig\bibnamedelima A.},
+           giveni={C\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{100dbc3533356515a1e4c7ef9acc7a59}
+      \strng{fullhash}{100dbc3533356515a1e4c7ef9acc7a59}
+      \strng{bibnamehash}{100dbc3533356515a1e4c7ef9acc7a59}
+      \strng{authorbibnamehash}{100dbc3533356515a1e4c7ef9acc7a59}
+      \strng{authornamehash}{100dbc3533356515a1e4c7ef9acc7a59}
+      \strng{authorfullhash}{100dbc3533356515a1e4c7ef9acc7a59}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Further validation of the Treatment Self-Regulation Questionnaire for assessing motivations for responsible drinking; A test of self-determination theory}
       \field{year}{2021}
-      \field{pages}{31\bibrangedash 45}
-      \range{pages}{15}
+    \endentry
+    \entry{deci1985intrinsic}{article}{}
+      \name{author}{2}{}{%
+        {{hash=d733c22238af349bac296bb1e5b60deb}{%
+           family={Deci},
+           familyi={D\bibinitperiod},
+           given={Edward\bibnamedelima L.},
+           giveni={E\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=49ad03aeb3155f395016c49dd507c027}{%
+           family={Ryan},
+           familyi={R\bibinitperiod},
+           given={Richard\bibnamedelima M.},
+           giveni={R\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \strng{namehash}{61b07b9305b8667ddab849ab53eb9818}
+      \strng{fullhash}{61b07b9305b8667ddab849ab53eb9818}
+      \strng{bibnamehash}{61b07b9305b8667ddab849ab53eb9818}
+      \strng{authorbibnamehash}{61b07b9305b8667ddab849ab53eb9818}
+      \strng{authornamehash}{61b07b9305b8667ddab849ab53eb9818}
+      \strng{authorfullhash}{61b07b9305b8667ddab849ab53eb9818}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Intrinsic Motivation and Self-Determination in Human Behavior}
+      \field{year}{1985}
+    \endentry
+    \entry{law2018systematic}{article}{}
+      \name{author}{1}{}{%
+        {{hash=81588d326cebe6416d3904db93603af1}{%
+           family={Law},
+           familyi={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{81588d326cebe6416d3904db93603af1}
+      \strng{fullhash}{81588d326cebe6416d3904db93603af1}
+      \strng{bibnamehash}{81588d326cebe6416d3904db93603af1}
+      \strng{authorbibnamehash}{81588d326cebe6416d3904db93603af1}
+      \strng{authornamehash}{81588d326cebe6416d3904db93603af1}
+      \strng{authorfullhash}{81588d326cebe6416d3904db93603af1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{JMIR Serious Games}
+      \field{month}{04}
+      \field{number}{3}
+      \field{title}{{Systematic Review and Validation of the Game Experience Questionnaire (GEQ) - Implications for Citation and Reporting Practice}}
+      \field{volume}{8}
+      \field{year}{2018}
       \verb{doi}
-      \verb 10.1007/s00371-019-01737-z
+      \verb 10.1234
       \endverb
     \endentry
-    \entry{example}{article}{}
+    \entry{jackson1998psychological}{article}{}
       \name{author}{1}{}{%
-        {{hash=93ac363f8ff6e0208f346008d45b6085}{%
-           family={Author},
-           familyi={A\bibinitperiod},
-           given={John},
-           giveni={J\bibinitperiod}}}%
+        {{hash=7930c951e609e461e8226004ed91a985}{%
+           family={Jackson},
+           familyi={J\bibinitperiod}}}%
       }
-      \strng{namehash}{93ac363f8ff6e0208f346008d45b6085}
-      \strng{fullhash}{93ac363f8ff6e0208f346008d45b6085}
-      \strng{bibnamehash}{93ac363f8ff6e0208f346008d45b6085}
-      \strng{authorbibnamehash}{93ac363f8ff6e0208f346008d45b6085}
-      \strng{authornamehash}{93ac363f8ff6e0208f346008d45b6085}
-      \strng{authorfullhash}{93ac363f8ff6e0208f346008d45b6085}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \strng{namehash}{7930c951e609e461e8226004ed91a985}
+      \strng{fullhash}{7930c951e609e461e8226004ed91a985}
+      \strng{bibnamehash}{7930c951e609e461e8226004ed91a985}
+      \strng{authorbibnamehash}{7930c951e609e461e8226004ed91a985}
+      \strng{authornamehash}{7930c951e609e461e8226004ed91a985}
+      \strng{authorfullhash}{7930c951e609e461e8226004ed91a985}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Journal of Examples}
-      \field{number}{1}
-      \field{title}{Example Article}
-      \field{volume}{1}
-      \field{year}{2023}
-      \field{pages}{1\bibrangedash 10}
-      \range{pages}{10}
+      \field{title}{Psychological correlates of flow in sport}
+      \field{year}{1998}
+    \endentry
+    \entry{jackson1996development}{article}{}
+      \name{author}{1}{}{%
+        {{hash=7930c951e609e461e8226004ed91a985}{%
+           family={Jackson},
+           familyi={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{7930c951e609e461e8226004ed91a985}
+      \strng{fullhash}{7930c951e609e461e8226004ed91a985}
+      \strng{bibnamehash}{7930c951e609e461e8226004ed91a985}
+      \strng{authorbibnamehash}{7930c951e609e461e8226004ed91a985}
+      \strng{authornamehash}{7930c951e609e461e8226004ed91a985}
+      \strng{authorfullhash}{7930c951e609e461e8226004ed91a985}
+      \field{extraname}{2}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Development and Validation of a Scale to Measure Optimal Experience The Flow State Scale}
+      \field{year}{1996}
+    \endentry
+    \entry{hamdi2015emotion}{article}{}
+      \name{author}{1}{}{%
+        {{hash=0fe1f732537a04059ab4f8fec4fc2052}{%
+           family={Hamdi},
+           familyi={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{0fe1f732537a04059ab4f8fec4fc2052}
+      \strng{fullhash}{0fe1f732537a04059ab4f8fec4fc2052}
+      \strng{bibnamehash}{0fe1f732537a04059ab4f8fec4fc2052}
+      \strng{authorbibnamehash}{0fe1f732537a04059ab4f8fec4fc2052}
+      \strng{authornamehash}{0fe1f732537a04059ab4f8fec4fc2052}
+      \strng{authorfullhash}{0fe1f732537a04059ab4f8fec4fc2052}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Emotion Recognition based on Heart Rate and Skin Conductance V6}
+      \field{year}{2015}
+    \endentry
+    \entry{nacke2015physiological}{article}{}
+      \name{author}{1}{}{%
+        {{hash=567b3b75d67b8fc5778722b20bc85d82}{%
+           family={Nacke},
+           familyi={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{567b3b75d67b8fc5778722b20bc85d82}
+      \strng{fullhash}{567b3b75d67b8fc5778722b20bc85d82}
+      \strng{bibnamehash}{567b3b75d67b8fc5778722b20bc85d82}
+      \strng{authorbibnamehash}{567b3b75d67b8fc5778722b20bc85d82}
+      \strng{authornamehash}{567b3b75d67b8fc5778722b20bc85d82}
+      \strng{authorfullhash}{567b3b75d67b8fc5778722b20bc85d82}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Physiological game evaluation}
+      \field{year}{2015}
+    \endentry
+    \entry{javorka2002heart}{article}{}
+      \name{author}{1}{}{%
+        {{hash=db37392fb840056ab87e7a0de55ce9cc}{%
+           family={Javorka},
+           familyi={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{db37392fb840056ab87e7a0de55ce9cc}
+      \strng{fullhash}{db37392fb840056ab87e7a0de55ce9cc}
+      \strng{bibnamehash}{db37392fb840056ab87e7a0de55ce9cc}
+      \strng{authorbibnamehash}{db37392fb840056ab87e7a0de55ce9cc}
+      \strng{authornamehash}{db37392fb840056ab87e7a0de55ce9cc}
+      \strng{authorfullhash}{db37392fb840056ab87e7a0de55ce9cc}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Heart rate recovery after exercise}
+      \field{year}{2002}
+    \endentry
+    \entry{seo2019automatic}{article}{}
+      \name{author}{1}{}{%
+        {{hash=67a30d0847a390ae56549987bb2d469a}{%
+           family={Seo},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{67a30d0847a390ae56549987bb2d469a}
+      \strng{fullhash}{67a30d0847a390ae56549987bb2d469a}
+      \strng{bibnamehash}{67a30d0847a390ae56549987bb2d469a}
+      \strng{authorbibnamehash}{67a30d0847a390ae56549987bb2d469a}
+      \strng{authornamehash}{67a30d0847a390ae56549987bb2d469a}
+      \strng{authorfullhash}{67a30d0847a390ae56549987bb2d469a}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Automatic Emotion-Based Music Classification for Supporting Intelligent IoT Applications}
+      \field{year}{2019}
+    \endentry
+    \entry{ravaja2018phasic}{article}{}
+      \name{author}{1}{}{%
+        {{hash=a7c951e3d1d6b8d1e2bd527f731e23b7}{%
+           family={Ravaja},
+           familyi={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{a7c951e3d1d6b8d1e2bd527f731e23b7}
+      \strng{fullhash}{a7c951e3d1d6b8d1e2bd527f731e23b7}
+      \strng{bibnamehash}{a7c951e3d1d6b8d1e2bd527f731e23b7}
+      \strng{authorbibnamehash}{a7c951e3d1d6b8d1e2bd527f731e23b7}
+      \strng{authornamehash}{a7c951e3d1d6b8d1e2bd527f731e23b7}
+      \strng{authorfullhash}{a7c951e3d1d6b8d1e2bd527f731e23b7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Phasic Emotional Reactions to Video Game Events}
+      \field{year}{2018}
+    \endentry
+    \entry{mandryk2006using}{article}{}
+      \name{author}{1}{}{%
+        {{hash=a08268e3e1ad08a94e2482694a84eeb7}{%
+           family={Mandryk},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{a08268e3e1ad08a94e2482694a84eeb7}
+      \strng{fullhash}{a08268e3e1ad08a94e2482694a84eeb7}
+      \strng{bibnamehash}{a08268e3e1ad08a94e2482694a84eeb7}
+      \strng{authorbibnamehash}{a08268e3e1ad08a94e2482694a84eeb7}
+      \strng{authornamehash}{a08268e3e1ad08a94e2482694a84eeb7}
+      \strng{authorfullhash}{a08268e3e1ad08a94e2482694a84eeb7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Using psychophysiological techniques to measure entertainment}
+      \field{year}{2006}
+    \endentry
+    \entry{hernandez19invisible}{article}{}
+      \name{author}{4}{}{%
+        {{hash=1c65b137eee7c38bf8dc9bc919696668}{%
+           family={Perusquía-Hernández},
+           familyi={P\bibinithyphendelim H\bibinitperiod},
+           given={Monica},
+           giveni={M\bibinitperiod}}}%
+        {{hash=d94394f3ac7c48db2714d7b1bd80b025}{%
+           family={Ayabe-Kanamura},
+           familyi={A\bibinithyphendelim K\bibinitperiod},
+           given={Saho},
+           giveni={S\bibinitperiod}}}%
+        {{hash=bfefbf3b827bbdebc3f660587233b2e8}{%
+           family={Suzuki},
+           familyi={S\bibinitperiod},
+           given={Kenji},
+           giveni={K\bibinitperiod}}}%
+        {{hash=aa3cec46f12582104b296d11fce7b7b5}{%
+           family={Kumano},
+           familyi={K\bibinitperiod},
+           given={Shiro},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{02b2549cf85d3e4eb02038155ef3690f}
+      \strng{fullhash}{e964612b8a427eac5f833786e79b72f2}
+      \strng{bibnamehash}{e964612b8a427eac5f833786e79b72f2}
+      \strng{authorbibnamehash}{e964612b8a427eac5f833786e79b72f2}
+      \strng{authornamehash}{02b2549cf85d3e4eb02038155ef3690f}
+      \strng{authorfullhash}{e964612b8a427eac5f833786e79b72f2}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Invisible Potential of Facial Electromyography}
+      \field{year}{2019}
+    \endentry
+    \entry{dawson2000electrodermal}{article}{}
+      \name{author}{3}{}{%
+        {{hash=153d7bf1b504c98922068fa29930f7af}{%
+           family={Dawson},
+           familyi={D\bibinitperiod},
+           given={Michael\bibnamedelima E.},
+           giveni={M\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=05fde10047b23611de0a0c8e38d78cd3}{%
+           family={Schell},
+           familyi={S\bibinitperiod},
+           given={Anne\bibnamedelima M.},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=a20c3193adb9a63486f32c54e9ed8102}{%
+           family={Filion},
+           familyi={F\bibinitperiod},
+           given={Diane\bibnamedelima L.},
+           giveni={D\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \strng{namehash}{27bc5e855e9ccb46406f1a8509db4a17}
+      \strng{fullhash}{27bc5e855e9ccb46406f1a8509db4a17}
+      \strng{bibnamehash}{27bc5e855e9ccb46406f1a8509db4a17}
+      \strng{authorbibnamehash}{27bc5e855e9ccb46406f1a8509db4a17}
+      \strng{authornamehash}{27bc5e855e9ccb46406f1a8509db4a17}
+      \strng{authorfullhash}{27bc5e855e9ccb46406f1a8509db4a17}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The electrodermal system; in: J. T. Cacioppo, L. G. Tassinary and G. G. Berntson (eds), Handbook of Psychophysiology, New York, NY: Cambridge University Press}
+      \field{year}{2000}
+    \endentry
+    \entry{kim2021soft}{article}{}
+      \name{author}{1}{}{%
+        {{hash=f55fbaaca148300ac11f7752528cae3d}{%
+           family={Kim},
+           familyi={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{f55fbaaca148300ac11f7752528cae3d}
+      \strng{fullhash}{f55fbaaca148300ac11f7752528cae3d}
+      \strng{bibnamehash}{f55fbaaca148300ac11f7752528cae3d}
+      \strng{authorbibnamehash}{f55fbaaca148300ac11f7752528cae3d}
+      \strng{authornamehash}{f55fbaaca148300ac11f7752528cae3d}
+      \strng{authorfullhash}{f55fbaaca148300ac11f7752528cae3d}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Soft Wireless Bioelectronics and Differential Electrodermal Activity for Home Sleep Monitoring}
+      \field{year}{2021}
+    \endentry
+    \entry{lang93pictures}{article}{}
+      \name{author}{4}{}{%
+        {{hash=3cab6828afa554eb54d82d47add6e709}{%
+           family={LANG},
+           familyi={L\bibinitperiod},
+           given={PETER\bibnamedelima J.},
+           giveni={P\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=7bd2e17353184d5b23a449d12c594ea2}{%
+           family={C.REENWALD},
+           familyi={C\bibinitperiod},
+           given={MARK\bibnamedelima K.},
+           giveni={M\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=4d376c7b18f2525213b37c26eb7592dc}{%
+           family={BRADLEY},
+           familyi={B\bibinitperiod},
+           given={MARGARET\bibnamedelima M.},
+           giveni={M\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=7b8d7fdae7c0f6d2083c72b0364dc9db}{%
+           family={HAMM},
+           familyi={H\bibinitperiod},
+           given={ALFONS\bibnamedelima O.},
+           giveni={A\bibinitperiod\bibinitdelim O\bibinitperiod}}}%
+      }
+      \strng{namehash}{a671a0c0a80a7591ab772d52c8271168}
+      \strng{fullhash}{f8c29387cded69da4ee65b874a72fd86}
+      \strng{bibnamehash}{f8c29387cded69da4ee65b874a72fd86}
+      \strng{authorbibnamehash}{f8c29387cded69da4ee65b874a72fd86}
+      \strng{authornamehash}{a671a0c0a80a7591ab772d52c8271168}
+      \strng{authorfullhash}{f8c29387cded69da4ee65b874a72fd86}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Looking at pictures: Affective facial visceral and behavioral reactions}
+      \field{year}{1993}
+    \endentry
+    \entry{levenson2003blood}{article}{}
+      \name{author}{1}{}{%
+        {{hash=418e53c5b17ea4f0a3d5347681c77132}{%
+           family={Levenson},
+           familyi={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{418e53c5b17ea4f0a3d5347681c77132}
+      \strng{fullhash}{418e53c5b17ea4f0a3d5347681c77132}
+      \strng{bibnamehash}{418e53c5b17ea4f0a3d5347681c77132}
+      \strng{authorbibnamehash}{418e53c5b17ea4f0a3d5347681c77132}
+      \strng{authornamehash}{418e53c5b17ea4f0a3d5347681c77132}
+      \strng{authorfullhash}{418e53c5b17ea4f0a3d5347681c77132}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Blood sweat and fears - the automatic architecture of emotion}
+      \field{year}{2003}
+    \endentry
+    \entry{link_herzfrequenzsensor}{misc}{}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{howpublished}{\url{https://www.amazon.de/Polar-Herzfrequenz-Sensor-Bluetooth-Wasserdichter-Brustgurt/dp/B07PM54P4N}}
+      \field{note}{{"[Online; accessed 31-May-2023]"}}
+    \endentry
+    \entry{appelhans2006heat}{article}{}
+      \name{author}{1}{}{%
+        {{hash=be5cfcd279169307ff3e6d788e4b0304}{%
+           family={Appelhans},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{be5cfcd279169307ff3e6d788e4b0304}
+      \strng{fullhash}{be5cfcd279169307ff3e6d788e4b0304}
+      \strng{bibnamehash}{be5cfcd279169307ff3e6d788e4b0304}
+      \strng{authorbibnamehash}{be5cfcd279169307ff3e6d788e4b0304}
+      \strng{authornamehash}{be5cfcd279169307ff3e6d788e4b0304}
+      \strng{authorfullhash}{be5cfcd279169307ff3e6d788e4b0304}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Heat rate variability as index of regulated emotional responding}
+      \field{year}{2006}
+    \endentry
+    \entry{ferdinando2014emotion}{article}{}
+      \name{author}{1}{}{%
+        {{hash=1f61dc8f2582af5f40c64ad375c86618}{%
+           family={Ferdinando},
+           familyi={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{1f61dc8f2582af5f40c64ad375c86618}
+      \strng{fullhash}{1f61dc8f2582af5f40c64ad375c86618}
+      \strng{bibnamehash}{1f61dc8f2582af5f40c64ad375c86618}
+      \strng{authorbibnamehash}{1f61dc8f2582af5f40c64ad375c86618}
+      \strng{authornamehash}{1f61dc8f2582af5f40c64ad375c86618}
+      \strng{authorfullhash}{1f61dc8f2582af5f40c64ad375c86618}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Emotion recognition by heart rate variability}
+      \field{year}{2014}
+    \endentry
+    \entry{mcmahan2018evaluating}{article}{}
+      \name{author}{1}{}{%
+        {{hash=acc0310e22e9ef6e7b207489133d9c60}{%
+           family={McMahan},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{acc0310e22e9ef6e7b207489133d9c60}
+      \strng{fullhash}{acc0310e22e9ef6e7b207489133d9c60}
+      \strng{bibnamehash}{acc0310e22e9ef6e7b207489133d9c60}
+      \strng{authorbibnamehash}{acc0310e22e9ef6e7b207489133d9c60}
+      \strng{authornamehash}{acc0310e22e9ef6e7b207489133d9c60}
+      \strng{authorfullhash}{acc0310e22e9ef6e7b207489133d9c60}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Evaluating Electroencephalography Engagement Indices during video game play}
+      \field{year}{2018}
+    \endentry
+    \entry{link_emotiv}{misc}{}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{howpublished}{\url{https://www.emotiv.com/epoc-flex/}}
+      \field{note}{[Online; accessed 31-May-2023]}
+    \endentry
+    \entry{homma2008breathing}{article}{}
+      \name{author}{1}{}{%
+        {{hash=19292ab8415949eeeaaeb05ddaefb350}{%
+           family={Homma},
+           familyi={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{19292ab8415949eeeaaeb05ddaefb350}
+      \strng{fullhash}{19292ab8415949eeeaaeb05ddaefb350}
+      \strng{bibnamehash}{19292ab8415949eeeaaeb05ddaefb350}
+      \strng{authorbibnamehash}{19292ab8415949eeeaaeb05ddaefb350}
+      \strng{authornamehash}{19292ab8415949eeeaaeb05ddaefb350}
+      \strng{authorfullhash}{19292ab8415949eeeaaeb05ddaefb350}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Breathing rhythms and emotions}
+      \field{year}{2008}
+    \endentry
+    \entry{natarajan2021measurement}{article}{}
+      \name{author}{1}{}{%
+        {{hash=21559e87b2148f7a5ccd9e8c76930c25}{%
+           family={Natarajan},
+           familyi={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{21559e87b2148f7a5ccd9e8c76930c25}
+      \strng{fullhash}{21559e87b2148f7a5ccd9e8c76930c25}
+      \strng{bibnamehash}{21559e87b2148f7a5ccd9e8c76930c25}
+      \strng{authorbibnamehash}{21559e87b2148f7a5ccd9e8c76930c25}
+      \strng{authornamehash}{21559e87b2148f7a5ccd9e8c76930c25}
+      \strng{authorfullhash}{21559e87b2148f7a5ccd9e8c76930c25}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Measurement of respiratory rate using wearable devices and applications to COVID-19 detection}
+      \field{year}{2021}
+    \endentry
+    \entry{lu15combining}{article}{}
+      \name{author}{4}{}{%
+        {{hash=b5e67376a412a84110a270c02935ccea}{%
+           family={Lu},
+           familyi={L\bibinitperiod},
+           given={Yifei},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=83bac7081972b9a6bf42618065ad00e7}{%
+           family={Zheng},
+           familyi={Z\bibinitperiod},
+           given={Wei-Long},
+           giveni={W\bibinithyphendelim L\bibinitperiod}}}%
+        {{hash=82fcc703e605d1107c5f687d0f3e8b29}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Binbin},
+           giveni={B\bibinitperiod}}}%
+        {{hash=654cf4dae29813f4635f4fc0ff848de8}{%
+           family={Lu},
+           familyi={L\bibinitperiod},
+           given={Bao-Liang},
+           giveni={B\bibinithyphendelim L\bibinitperiod}}}%
+      }
+      \strng{namehash}{f15674df515093e5562d22a86c7c5ec9}
+      \strng{fullhash}{6df29e794adb3ecba0775c8052caf899}
+      \strng{bibnamehash}{6df29e794adb3ecba0775c8052caf899}
+      \strng{authorbibnamehash}{6df29e794adb3ecba0775c8052caf899}
+      \strng{authornamehash}{f15674df515093e5562d22a86c7c5ec9}
+      \strng{authorfullhash}{6df29e794adb3ecba0775c8052caf899}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Combining Eye Movements and EEG to Enhance Emotion Recognition}
+      \field{year}{2015}
+    \endentry
+    \entry{hardy2011adoption}{article}{}
+      \name{author}{1}{}{%
+        {{hash=0f500956f995b17f0e573e313abc6160}{%
+           family={Hardy},
+           familyi={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{0f500956f995b17f0e573e313abc6160}
+      \strng{fullhash}{0f500956f995b17f0e573e313abc6160}
+      \strng{bibnamehash}{0f500956f995b17f0e573e313abc6160}
+      \strng{authorbibnamehash}{0f500956f995b17f0e573e313abc6160}
+      \strng{authornamehash}{0f500956f995b17f0e573e313abc6160}
+      \strng{authorfullhash}{0f500956f995b17f0e573e313abc6160}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Adaption model for indoor exergames}
+      \field{year}{2011}
     \endentry
   \enddatalist
+  \missing{boiten1998the}
+  \missing{gilinov2017variable}
+  \missing{hammond 1985normal}
 \endrefsection
 \endinput
 

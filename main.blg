@@ -1,15 +1,27 @@
 [0] Config.pm:307> INFO - This is Biber 2.19
 [0] Config.pm:310> INFO - Logfile is 'main.blg'
-[120] biber-MSWIN64:340> INFO - === 
-[160] Biber.pm:419> INFO - Reading 'main.bcf'
-[284] Biber.pm:979> INFO - Found 7 citekeys in bib section 0
-[300] Biber.pm:4419> INFO - Processing section 0
-[314] Biber.pm:4610> INFO - Looking for bibtex file 'bibliography.bib' for section 0
-[365] bibtex.pm:1713> INFO - LaTeX decoding ...
-[377] bibtex.pm:1519> INFO - Found BibTeX data source 'bibliography.bib'
-[441] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[441] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[441] Biber.pm:4239> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
-[441] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
-[446] bbl.pm:660> INFO - Writing 'main.bbl' with encoding 'UTF-8'
-[449] bbl.pm:763> INFO - Output to main.bbl
+[132] biber-MSWIN64:340> INFO - === 
+[177] Biber.pm:419> INFO - Reading 'main.bcf'
+[320] Biber.pm:979> INFO - Found 51 citekeys in bib section 0
+[337] Biber.pm:4419> INFO - Processing section 0
+[351] Biber.pm:4610> INFO - Looking for bibtex file 'bibliography.bib' for section 0
+[406] bibtex.pm:1713> INFO - LaTeX decoding ...
+[450] bibtex.pm:1519> INFO - Found BibTeX data source 'bibliography.bib'
+[491] Utils.pm:410> ERROR - Name "Alexandro Andrade ,Whyllerton Mayron da Cruz,Clara Knierim Correia,Ana Luiza Goya Santos,Guilherme Guimarães Bevilacqua" has too many commas, skipping entry 'andrade2020effect'
+[660] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[661] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[661] Biber.pm:4239> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
+[661] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
+[690] bbl.pm:660> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[710] bbl.pm:763> INFO - Output to main.bbl
+[710] Biber.pm:131> WARN - Entry with key 'andrade2020effect' in section '0' is cited and found but not created (likely due to sourcemap)
+[710] Biber.pm:131> WARN - Name in key 'kivikangas2011review' is empty (probably consecutive 'and'): skipping entry 'kivikangas2011review'
+[710] Biber.pm:131> WARN - Entry with key 'kivikangas2011review' in section '0' is cited and found but not created (likely due to sourcemap)
+[710] Biber.pm:131> WARN - BibTeX subsystem: C:\Users\Dustin\AppData\Local\Temp\biber_tmp_5tBu\f4d088b3f9f145b5c3058da33afd57d4_14360.utf8, line 309, warning: 13 characters of junk seen at toplevel
+[711] Biber.pm:131> WARN - BibTeX subsystem: C:\Users\Dustin\AppData\Local\Temp\biber_tmp_5tBu\f4d088b3f9f145b5c3058da33afd57d4_14360.utf8, line 452, warning: 55 characters of junk seen at toplevel
+[711] Biber.pm:131> WARN - BibTeX subsystem: substring 3, warning: empty substring
+[711] Biber.pm:131> WARN - I didn't find a database entry for 'hammond 1985normal' (section 0)
+[711] Biber.pm:131> WARN - I didn't find a database entry for 'gilinov2017variable' (section 0)
+[711] Biber.pm:131> WARN - I didn't find a database entry for 'boiten1998the' (section 0)
+[711] Biber.pm:133> INFO - WARNINGS: 9
+[711] Biber.pm:136> INFO - ERRORS: 1

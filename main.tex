@@ -1,5 +1,3 @@
-
-
 \documentclass[
 	language=english, % Zu ngerman ändern bei deutschen Arbeiten, zu english bei englischen Arbeiten
 	thesis={type=Seminar Paper}, % type=Seminararbeit, Projektbericht, Seminar Paper, Project Report
@@ -12,7 +10,7 @@
 	fontsize=11pt,% Basisschriftgröße laut Corporate Design ist mit 9pt häufig zu klein
 	IMRAD=false % Zusätzliche Metadaten nach Wunsch der Universitätsbibliothek deaktivieren
 ]{tudapub}
-
+ 
 \usepackage[ngerman, main=english]{babel} % ngerman und english bei deutschen Arbeiten tauschen
 \usepackage[autostyle]{csquotes} % Anführungszeichen vereinfacht
 \usepackage{microtype}
@@ -24,6 +22,7 @@
 
 \bibliography{bibliography}
 
+\usepackage{url}
 \usepackage{acro}
 \usepackage{mfirstuc}% provides \capitalisewords
 \acsetup{list/template=longtable}
@@ -43,32 +42,29 @@
 
 \begin{document}
 
-\title{Evaluation of exergames}
+\title{Evaluation methods of exergames}
 \subtitle{Methods and instrument for assessing the quality of exergames}
-\author[F. Surname]{Dustin Grünwald} % optionales Argument ist die Signatur
-\reviewer{Dr.-Ing. (habil.) Stefan Göbel \and Supervisor} % Gutachter
+\author[D. Grünwald]{Dustin Grünwald} % optionales Argument ist die Signatur
+\reviewer{Dr.-Ing. (habil.) Stefan Göbel \and Polona Caserman} % Gutachter
 \department{etit}
 \institute{Serious Games}
 
 
 \Metadata{
     author=Dustin Grünwald,
-    title=Evaluation of exergames,
+    title=Evaluation methods of exergames,
 }
 
 \maketitle
 \affidavit % oder \affidavit[digital] falls eine rein digitale Abgabe vorgesehen ist.
 \tableofcontents
 \input{abstract}
-
-This is a citation example \cite{example}.
-
-
 \input{content}
-
 \clearpage
 \chapter*{List of Acronyms}
 \printacronyms[heading={none}]
+
+\printbibliography
 
 \appendix
 \input{appendix}
