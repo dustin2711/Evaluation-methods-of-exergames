@@ -8,11 +8,12 @@
 \contentsline {chapter}{\numberline {2}Measuring outcomes}{7}{chapter.2}%
 \contentsline {section}{\numberline {2.1}Impact of training frequency of exergames}{7}{section.2.1}%
 \contentsline {chapter}{\numberline {3}Sonstiges}{8}{chapter.3}%
-\contentsline {section}{\numberline {3.1}Impact of sport on psychology}{8}{section.3.1}%
-\contentsline {section}{\numberline {3.2}Impact of sport on psychophysiological measures}{8}{section.3.2}%
-\contentsline {subsection}{\numberline {3.2.1}HRV}{8}{subsection.3.2.1}%
-\contentsline {subsection}{\numberline {3.2.2}EEG}{9}{subsection.3.2.2}%
-\contentsline {section}{\numberline {3.3}Smartwatches}{9}{section.3.3}%
+\contentsline {section}{\numberline {3.1}Impact of sport on physiologically}{8}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Impact of sport on psychology}{8}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Impact of sport on psychophysiological measures}{9}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}HRV}{9}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.3.2}EEG}{9}{subsection.3.3.2}%
+\contentsline {section}{\numberline {3.4}Smartwatches}{9}{section.3.4}%
 \contentsline {chapter}{\numberline {4}Existing evaluation methods}{10}{chapter.4}%
 \contentsline {section}{\numberline {4.1}Questionnaires}{10}{section.4.1}%
 \contentsline {subsection}{\numberline {4.1.1}The Player Experience of Need Satisfaction (PENS) Model}{10}{subsection.4.1.1}%
@@ -31,11 +32,14 @@
 \contentsline {subsection}{\numberline {4.2.9}Eyes}{16}{subsection.4.2.9}%
 \contentsline {subsection}{\numberline {4.2.10}Body}{16}{subsection.4.2.10}%
 \contentsline {section}{\numberline {4.3}Comparing exergames with conventional interventions}{16}{section.4.3}%
-\contentsline {subsubsection}{\nonumberline Physical activity in inactive children}{17}{subsubsection*.6}%
-\contentsline {subsubsection}{\nonumberline Balance training for elder people}{17}{subsubsection*.8}%
-\contentsline {subsubsection}{\nonumberline PlayStation EyeToy intervention}{17}{subsubsection*.10}%
-\contentsline {subsubsection}{\nonumberline 3 groups}{18}{subsubsection*.12}%
-\contentsline {section}{\numberline {4.4}Evaluation of excersises}{18}{section.4.4}%
-\contentsline {chapter}{\numberline {5}Evaluation methods for exergames}{19}{chapter.5}%
-\contentsline {chapter}{\numberline {A}Appendix}{25}{appendix.A}%
+\contentsline {subsection}{\numberline {4.3.1}Measures}{16}{subsection.4.3.1}%
+\contentsline {subsubsection}{\nonumberline Physical activity in inactive children}{18}{subsubsection*.6}%
+\contentsline {subsubsection}{\nonumberline Balance training for elder people}{18}{subsubsection*.8}%
+\contentsline {subsubsection}{\nonumberline PlayStation EyeToy intervention}{19}{subsubsection*.10}%
+\contentsline {subsubsection}{\nonumberline 3 groups}{19}{subsubsection*.12}%
+\contentsline {section}{\numberline {4.4}Evaluation of excersises}{19}{section.4.4}%
+\contentsline {chapter}{\numberline {5}Evaluation methods for exergames}{20}{chapter.5}%
+\contentsline {chapter}{\numberline {6}Conclusion}{21}{chapter.6}%
+\contentsline {chapter}{\numberline {7}Prospect}{22}{chapter.7}%
+\contentsline {chapter}{\numberline {A}Appendix}{28}{appendix.A}%
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 

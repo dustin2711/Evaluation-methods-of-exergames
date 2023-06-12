@@ -369,23 +369,48 @@
       \range{pages}{8}
     \endentry
     \entry{fogel2010effects}{article}{}
-      \name{author}{1}{}{%
-        {{hash=882814c08696544989034b36becd764d}{%
+      \name{author}{4}{}{%
+        {{hash=0b38dac4a8091ad44b6a38662c40f00b}{%
            family={Fogel},
-           familyi={F\bibinitperiod}}}%
+           familyi={F\bibinitperiod},
+           given={Victoria\bibnamedelima A},
+           giveni={V\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=c79344a6a41ff976cfc3382244f6a6db}{%
+           family={Miltenberger},
+           familyi={M\bibinitperiod},
+           given={Raymond\bibnamedelima G},
+           giveni={R\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=7a6e29dbba37b59541ca52ba19d17123}{%
+           family={Graves},
+           familyi={G\bibinitperiod},
+           given={Rachel},
+           giveni={R\bibinitperiod}}}%
+        {{hash=894084e710956a70abf1702cee0c70ae}{%
+           family={Koehler},
+           familyi={K\bibinitperiod},
+           given={Shannon},
+           giveni={S\bibinitperiod}}}%
       }
-      \strng{namehash}{882814c08696544989034b36becd764d}
-      \strng{fullhash}{882814c08696544989034b36becd764d}
-      \strng{bibnamehash}{882814c08696544989034b36becd764d}
-      \strng{authorbibnamehash}{882814c08696544989034b36becd764d}
-      \strng{authornamehash}{882814c08696544989034b36becd764d}
-      \strng{authorfullhash}{882814c08696544989034b36becd764d}
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{4480e1c59fb120847f3232e4b5a65140}
+      \strng{fullhash}{021ecdf3ad3ef472f524e3cd19b28085}
+      \strng{bibnamehash}{021ecdf3ad3ef472f524e3cd19b28085}
+      \strng{authorbibnamehash}{021ecdf3ad3ef472f524e3cd19b28085}
+      \strng{authornamehash}{4480e1c59fb120847f3232e4b5a65140}
+      \strng{authorfullhash}{021ecdf3ad3ef472f524e3cd19b28085}
       \field{sortinit}{1}
       \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{Effects of exergaming on physical activity among inactive children}
+      \field{journaltitle}{Journal of applied behavior analysis}
+      \field{number}{4}
+      \field{title}{The effects of exergaming on physical activity among inactive children in a physical education classroom}
+      \field{volume}{43}
       \field{year}{2010}
+      \field{pages}{591\bibrangedash 600}
+      \range{pages}{10}
     \endentry
     \entry{peng2011playing}{article}{}
       \name{author}{1}{}{%
@@ -1801,6 +1826,216 @@
       \field{labeltitlesource}{title}
       \field{title}{Combining Eye Movements and EEG to Enhance Emotion Recognition}
       \field{year}{2015}
+    \endentry
+    \entry{viana2020effects}{article}{}
+      \name{author}{8}{}{%
+        {{hash=55dbcb801c5bc4d70e1c1f9f26349126}{%
+           family={Viana},
+           familyi={V\bibinitperiod},
+           given={Ricardo\bibnamedelima Borges},
+           giveni={R\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=c5d30fb87e48a374ccbc104b8cd3fd5d}{%
+           family={Dankel},
+           familyi={D\bibinitperiod},
+           given={Scott\bibnamedelima J},
+           giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=66af2f0bc71dff53d7639b32ec38a068}{%
+           family={Loenneke},
+           familyi={L\bibinitperiod},
+           given={Jeremy\bibnamedelima P},
+           giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=130db3b19234cfcf4f61b41b95f39d35}{%
+           family={Gentil},
+           familyi={G\bibinitperiod},
+           given={Paulo},
+           giveni={P\bibinitperiod}}}%
+        {{hash=ceb1addb9240e1f6f39b7769ce7da278}{%
+           family={Vieira},
+           familyi={V\bibinitperiod},
+           given={Carlos\bibnamedelima Alexandre},
+           giveni={C\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=f86fd3ada7fd600867ece88f22e9e928}{%
+           family={Andrade},
+           familyi={A\bibinitperiod},
+           given={Marilia\bibnamedelimb dos\bibnamedelima Santos},
+           giveni={M\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=ec5ee68c95896a37f84f9077ea02bb84}{%
+           family={Vancini},
+           familyi={V\bibinitperiod},
+           given={Rodrigo\bibnamedelima Luiz},
+           giveni={R\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=498554ab5df208ac8dd76eabd783059e}{%
+           family={Lira},
+           familyi={L\bibinitperiod},
+           given={Claudio\bibnamedelimb Andre\bibnamedelima Barbosa},
+           giveni={C\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim B\bibinitperiod},
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{dc09f6c9c10402a8a07844881d88b0e3}
+      \strng{fullhash}{b6ae1e43b80555a9ba83e230beebafc6}
+      \strng{bibnamehash}{b6ae1e43b80555a9ba83e230beebafc6}
+      \strng{authorbibnamehash}{b6ae1e43b80555a9ba83e230beebafc6}
+      \strng{authornamehash}{dc09f6c9c10402a8a07844881d88b0e3}
+      \strng{authorfullhash}{b6ae1e43b80555a9ba83e230beebafc6}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Scandinavian Journal of Medicine \& Science in Sports}
+      \field{number}{7}
+      \field{title}{The effects of exergames on anxiety levels: A systematic review and meta-analysis}
+      \field{volume}{30}
+      \field{year}{2020}
+      \field{pages}{1100\bibrangedash 1116}
+      \range{pages}{17}
+    \endentry
+    \entry{viana2021effects}{article}{}
+      \name{author}{10}{}{%
+        {{hash=55dbcb801c5bc4d70e1c1f9f26349126}{%
+           family={Viana},
+           familyi={V\bibinitperiod},
+           given={Ricardo\bibnamedelima Borges},
+           giveni={R\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=f18493e42bf877f573ec44d0f2d92ba2}{%
+           family={Oliveira},
+           familyi={O\bibinitperiod},
+           given={Vinnycius\bibnamedelima Nunes},
+           giveni={V\bibinitperiod\bibinitdelim N\bibinitperiod},
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
+        {{hash=c5d30fb87e48a374ccbc104b8cd3fd5d}{%
+           family={Dankel},
+           familyi={D\bibinitperiod},
+           given={Scott\bibnamedelima J},
+           giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=66af2f0bc71dff53d7639b32ec38a068}{%
+           family={Loenneke},
+           familyi={L\bibinitperiod},
+           given={Jeremy\bibnamedelima P},
+           giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=9102df4eba641f7e7ee856b161e0257a}{%
+           family={Abe},
+           familyi={A\bibinitperiod},
+           given={Takashi},
+           giveni={T\bibinitperiod}}}%
+        {{hash=e73130559de42736b839c9ecaf5d1b52}{%
+           family={Silva},
+           familyi={S\bibinitperiod},
+           given={Wellington\bibnamedelima Fernando},
+           giveni={W\bibinitperiod\bibinitdelim F\bibinitperiod},
+           prefix={da},
+           prefixi={d\bibinitperiod}}}%
+        {{hash=db4e48a84f70bf4ff9ec72958b74fc85}{%
+           family={Morais},
+           familyi={M\bibinitperiod},
+           given={Naiane\bibnamedelima Silva},
+           giveni={N\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=ec5ee68c95896a37f84f9077ea02bb84}{%
+           family={Vancini},
+           familyi={V\bibinitperiod},
+           given={Rodrigo\bibnamedelima Luiz},
+           giveni={R\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=8ae58cccd238ef96e30fd8e43caad5ee}{%
+           family={Andrade},
+           familyi={A\bibinitperiod},
+           given={Marília\bibnamedelima Santos},
+           giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=498554ab5df208ac8dd76eabd783059e}{%
+           family={Lira},
+           familyi={L\bibinitperiod},
+           given={Claudio\bibnamedelimb Andre\bibnamedelima Barbosa},
+           giveni={C\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim B\bibinitperiod},
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{48000a69e6f0ae0731c2d735f4065b52}
+      \strng{fullhash}{fe71fb1bb767b34b72b0ab8e41ccb925}
+      \strng{bibnamehash}{fe71fb1bb767b34b72b0ab8e41ccb925}
+      \strng{authorbibnamehash}{fe71fb1bb767b34b72b0ab8e41ccb925}
+      \strng{authornamehash}{48000a69e6f0ae0731c2d735f4065b52}
+      \strng{authorfullhash}{fe71fb1bb767b34b72b0ab8e41ccb925}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Scandinavian Journal of Medicine \& Science in Sports}
+      \field{number}{8}
+      \field{title}{The effects of exergames on muscle strength: A systematic review and meta-analysis}
+      \field{volume}{31}
+      \field{year}{2021}
+      \field{pages}{1592\bibrangedash 1611}
+      \range{pages}{20}
+    \endentry
+    \entry{valeriani2021exergames}{article}{}
+      \name{author}{8}{}{%
+        {{hash=29502d0aabce80ac65c7785c9e0fab76}{%
+           family={Valeriani},
+           familyi={V\bibinitperiod},
+           given={Federica},
+           giveni={F\bibinitperiod}}}%
+        {{hash=1e341d3d1bf05ee6efd77938fddaa558}{%
+           family={Protano},
+           familyi={P\bibinitperiod},
+           given={Carmela},
+           giveni={C\bibinitperiod}}}%
+        {{hash=481665cf5d4d920ab2dc99f9cb9be8dc}{%
+           family={Marotta},
+           familyi={M\bibinitperiod},
+           given={Daniela},
+           giveni={D\bibinitperiod}}}%
+        {{hash=4c63dc1322d5a031edacef07ffa152e6}{%
+           family={Liguori},
+           familyi={L\bibinitperiod},
+           given={Giorgio},
+           giveni={G\bibinitperiod}}}%
+        {{hash=7754f6ad47f7ec8b86f9a7ed1c40e43a}{%
+           family={Romano\bibnamedelima Spica},
+           familyi={R\bibinitperiod\bibinitdelim S\bibinitperiod},
+           given={Vincenzo},
+           giveni={V\bibinitperiod}}}%
+        {{hash=aa37fb1f3dca7cc82ad879b1294a9ff6}{%
+           family={Valerio},
+           familyi={V\bibinitperiod},
+           given={Giuliana},
+           giveni={G\bibinitperiod}}}%
+        {{hash=b32c57d14f94d5e013a83a0deda3f3e6}{%
+           family={Vitali},
+           familyi={V\bibinitperiod},
+           given={Matteo},
+           giveni={M\bibinitperiod}}}%
+        {{hash=024004ab5875282e598750c3a56ab1b9}{%
+           family={Gallè},
+           familyi={G\bibinitperiod},
+           given={Francesca},
+           giveni={F\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {MDPI}%
+      }
+      \strng{namehash}{7bc9220b65ff88497f391e8627feec86}
+      \strng{fullhash}{111638dde2153b0523ddc60b0d0230c9}
+      \strng{bibnamehash}{111638dde2153b0523ddc60b0d0230c9}
+      \strng{authorbibnamehash}{111638dde2153b0523ddc60b0d0230c9}
+      \strng{authornamehash}{7bc9220b65ff88497f391e8627feec86}
+      \strng{authorfullhash}{111638dde2153b0523ddc60b0d0230c9}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Environmental Research and Public Health}
+      \field{number}{9}
+      \field{title}{Exergames in childhood obesity treatment: A systematic review}
+      \field{volume}{18}
+      \field{year}{2021}
+      \field{pages}{4938}
+      \range{pages}{1}
     \endentry
     \entry{hardy2011adoption}{article}{}
       \name{author}{1}{}{%

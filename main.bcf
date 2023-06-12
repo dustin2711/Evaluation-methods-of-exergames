@@ -2471,12 +2471,21 @@
     <bcf:citekey order="95" intorder="1">natarajan2021measurement</bcf:citekey>
     <bcf:citekey order="96" intorder="1">lu15combining</bcf:citekey>
     <bcf:citekey order="97" intorder="1">kivikangas2011review</bcf:citekey>
-    <bcf:citekey order="98" intorder="1">fogel2010effects</bcf:citekey>
-    <bcf:citekey order="99" intorder="1">lai2013effects</bcf:citekey>
-    <bcf:citekey order="100" intorder="1">hardy2011adoption</bcf:citekey>
-    <bcf:citekey order="101" intorder="1">maddison12avg</bcf:citekey>
-    <bcf:citekey order="102" intorder="1">bock2019exercise</bcf:citekey>
-    <bcf:citekey order="103" intorder="1">lyons13strategies</bcf:citekey>
+    <bcf:citekey order="98" intorder="1">viana2020effects</bcf:citekey>
+    <bcf:citekey order="99" intorder="1">viana2021effects</bcf:citekey>
+    <bcf:citekey order="100" intorder="1">valeriani2021exergames</bcf:citekey>
+    <bcf:citekey order="101" intorder="1">link_studyquality</bcf:citekey>
+    <bcf:citekey order="102" intorder="1">gao2014field</bcf:citekey>
+    <bcf:citekey order="103" intorder="1">baranowski2012impact</bcf:citekey>
+    <bcf:citekey order="104" intorder="1">huang2017can</bcf:citekey>
+    <bcf:citekey order="105" intorder="1">gao2014field</bcf:citekey>
+    <bcf:citekey order="106" intorder="1">viana2021effects</bcf:citekey>
+    <bcf:citekey order="107" intorder="1">fogel2010effects</bcf:citekey>
+    <bcf:citekey order="108" intorder="1">lai2013effects</bcf:citekey>
+    <bcf:citekey order="109" intorder="1">hardy2011adoption</bcf:citekey>
+    <bcf:citekey order="110" intorder="1">maddison12avg</bcf:citekey>
+    <bcf:citekey order="111" intorder="1">bock2019exercise</bcf:citekey>
+    <bcf:citekey order="112" intorder="1">lyons13strategies</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="none">
