@@ -1,21 +1,21 @@
 [0] Config.pm:307> INFO - This is Biber 2.19
 [0] Config.pm:310> INFO - Logfile is 'main.blg'
-[121] biber-MSWIN64:340> INFO - === 
-[166] Biber.pm:419> INFO - Reading 'main.bcf'
-[313] Biber.pm:979> INFO - Found 66 citekeys in bib section 0
-[330] Biber.pm:4419> INFO - Processing section 0
-[344] Biber.pm:4610> INFO - Looking for bibtex file 'bibliography.bib' for section 0
-[415] bibtex.pm:1713> INFO - LaTeX decoding ...
-[467] bibtex.pm:1519> INFO - Found BibTeX data source 'bibliography.bib'
-[761] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[761] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[761] Biber.pm:4239> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
-[761] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
-[802] bbl.pm:660> INFO - Writing 'main.bbl' with encoding 'UTF-8'
-[830] bbl.pm:763> INFO - Output to main.bbl
-[831] Biber.pm:131> WARN - Name in key 'kivikangas2011review' is empty (probably consecutive 'and'): skipping entry 'kivikangas2011review'
-[831] Biber.pm:131> WARN - Entry with key 'kivikangas2011review' in section '0' is cited and found but not created (likely due to sourcemap)
-[831] Biber.pm:131> WARN - BibTeX subsystem: C:\Users\Dustin\AppData\Local\Temp\biber_tmp_jeYc\f4d088b3f9f145b5c3058da33afd57d4_9700.utf8, line 308, warning: 13 characters of junk seen at toplevel
-[831] Biber.pm:131> WARN - BibTeX subsystem: C:\Users\Dustin\AppData\Local\Temp\biber_tmp_jeYc\f4d088b3f9f145b5c3058da33afd57d4_9700.utf8, line 669, warning: 55 characters of junk seen at toplevel
-[831] Biber.pm:131> WARN - BibTeX subsystem: substring 3, warning: empty substring
-[831] Biber.pm:133> INFO - WARNINGS: 5
+[144] biber-MSWIN64:340> INFO - === 
+[191] Biber.pm:419> INFO - Reading 'main.bcf'
+[386] Biber.pm:979> INFO - Found 74 citekeys in bib section 0
+[420] Biber.pm:4419> INFO - Processing section 0
+[442] Biber.pm:4610> INFO - Looking for bibtex file 'bibliography.bib' for section 0
+[519] bibtex.pm:1713> INFO - LaTeX decoding ...
+[588] bibtex.pm:1519> INFO - Found BibTeX data source 'bibliography.bib'
+[949] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[949] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[950] Biber.pm:4239> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
+[950] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
+[988] bbl.pm:660> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[1018] bbl.pm:763> INFO - Output to main.bbl
+[1019] Biber.pm:131> WARN - Name in key 'kivikangas2011review' is empty (probably consecutive 'and'): skipping entry 'kivikangas2011review'
+[1019] Biber.pm:131> WARN - Entry with key 'kivikangas2011review' in section '0' is cited and found but not created (likely due to sourcemap)
+[1019] Biber.pm:131> WARN - BibTeX subsystem: C:\Users\Dustin\AppData\Local\Temp\biber_tmp_NkRi\f4d088b3f9f145b5c3058da33afd57d4_12088.utf8, line 308, warning: 13 characters of junk seen at toplevel
+[1019] Biber.pm:131> WARN - BibTeX subsystem: C:\Users\Dustin\AppData\Local\Temp\biber_tmp_NkRi\f4d088b3f9f145b5c3058da33afd57d4_12088.utf8, line 685, warning: 55 characters of junk seen at toplevel
+[1019] Biber.pm:131> WARN - BibTeX subsystem: substring 3, warning: empty substring
+[1019] Biber.pm:133> INFO - WARNINGS: 5

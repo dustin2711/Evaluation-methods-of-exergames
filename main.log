@@ -1,15 +1,15 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.5.18)  10 JUN 2023 23:11
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.6.5)  11 JUN 2023 23:23
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/Users/Dustin/Desktop/Evalution-methods-of-exergames/main.tex
-(c:/Users/Dustin/Desktop/Evalution-methods-of-exergames/main.tex
+**c:/Users/Dustin/Desktop/evaluation-methods-of-exergames/main.tex
+(c:/Users/Dustin/Desktop/evaluation-methods-of-exergames/main.tex
 LaTeX2e <2022-11-01> patch level 1
-L3 programming layer <2023-05-11> (C:\Users\Dustin\AppData\Local\Programs\MiKTeX\tex/latex/tuda-ci\tudapub.cls (C:\Users\Dustin\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
-Package: expl3 2023-05-11 L3 programming layer (loader) 
+L3 programming layer <2023-03-30> (C:\Users\Dustin\AppData\Local\Programs\MiKTeX\tex/latex/tuda-ci\tudapub.cls (C:\Users\Dustin\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
+Package: expl3 2023-03-30 L3 programming layer (loader) 
  (C:\Users\Dustin\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
-File: l3backend-pdftex.def 2023-04-19 L3 backend support: PDF output (pdfTeX)
+File: l3backend-pdftex.def 2023-03-30 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count185
 \l__pdf_internal_box=\box51
 ))
@@ -348,7 +348,7 @@ LaTeX Info: Composite with undeclared \b in encoding L8U on input line 278.
 \pdfxsafeforxmp@toks=\toks24
 \pdfx@tmptoks=\toks25
  (C:\Users\Dustin\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
-Package: hyperref 2023-04-22 v7.00x Hypertext links for LaTeX
+Package: hyperref 2023-02-07 v7.00v Hypertext links for LaTeX
  (C:\Users\Dustin\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
 Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
 ) (C:\Users\Dustin\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty
@@ -386,28 +386,30 @@ Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 \Hy@linkcounter=\count276
 \Hy@pagecounter=\count277
  (C:\Users\Dustin\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
-File: pd1enc.def 2023-04-22 v7.00x Hyperref: PDFDocEncoding definition (HO)
+File: pd1enc.def 2023-02-07 v7.00v Hyperref: PDFDocEncoding definition (HO)
 ) (C:\Users\Dustin\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+) (C:\Users\Dustin\AppData\Local\Programs\MiKTeX\tex/generic/etexcmds\etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
 \Hy@SavedSpaceFactor=\count278
  (C:\Users\Dustin\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
-File: puenc.def 2023-04-22 v7.00x Hyperref: PDF Unicode definition (HO)
+File: puenc.def 2023-02-07 v7.00v Hyperref: PDF Unicode definition (HO)
 )
-Package hyperref Info: Option `pdfa' set `true' on input line 4065.
-Package hyperref Info: Hyper figures OFF on input line 4182.
-Package hyperref Info: Link nesting OFF on input line 4187.
-Package hyperref Info: Hyper index ON on input line 4190.
-Package hyperref Info: Plain pages OFF on input line 4197.
-Package hyperref Info: Backreferencing OFF on input line 4202.
+Package hyperref Info: Option `pdfa' set `true' on input line 4060.
+Package hyperref Info: Hyper figures OFF on input line 4177.
+Package hyperref Info: Link nesting OFF on input line 4182.
+Package hyperref Info: Hyper index ON on input line 4185.
+Package hyperref Info: Plain pages OFF on input line 4192.
+Package hyperref Info: Backreferencing OFF on input line 4197.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4449.
+Package hyperref Info: Bookmarks ON on input line 4425.
 \c@Hy@tempcnt=\count279
  (C:\Users\Dustin\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
 \Urlmuskip=\muskip16
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-LaTeX Info: Redefining \url on input line 4787.
+LaTeX Info: Redefining \url on input line 4763.
 \XeTeXLinkMargin=\dimen171
  (C:\Users\Dustin\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
@@ -417,13 +419,13 @@ Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
 \Fld@menulength=\count280
 \Field@Width=\dimen172
 \Fld@charsize=\dimen173
-Package hyperref Info: Hyper figures OFF on input line 6066.
-Package hyperref Info: Link nesting OFF on input line 6071.
-Package hyperref Info: Hyper index ON on input line 6074.
-Package hyperref Info: backreferencing OFF on input line 6081.
-Package hyperref Info: Link coloring OFF on input line 6086.
-Package hyperref Info: Link coloring with OCG OFF on input line 6091.
-Package hyperref Info: PDF/A mode ON on input line 6094.
+Package hyperref Info: Hyper figures OFF on input line 6042.
+Package hyperref Info: Link nesting OFF on input line 6047.
+Package hyperref Info: Hyper index ON on input line 6050.
+Package hyperref Info: backreferencing OFF on input line 6057.
+Package hyperref Info: Link coloring OFF on input line 6062.
+Package hyperref Info: Link coloring with OCG OFF on input line 6067.
+Package hyperref Info: PDF/A mode ON on input line 6070.
  (C:\Users\Dustin\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-ltx.sty
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
@@ -434,7 +436,7 @@ package with kernel methods
 )
 Package hyperref Info: Driver: hpdftex.
  (C:\Users\Dustin\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
-File: hpdftex.def 2023-04-22 v7.00x Hyperref driver for pdfTeX
+File: hpdftex.def 2023-02-07 v7.00v Hyperref driver for pdfTeX
  (C:\Users\Dustin\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-ltx.sty
 Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend package
 with kernel methods
@@ -456,9 +458,9 @@ Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO)
 )
 Package hyperref Info: Option `psdextra' set `true' on input line 1465.
  (C:\Users\Dustin\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc-greekbasic.def
-File: puenc-greekbasic.def 2023-04-22 v7.00x Hyperref: PDF Unicode definition (greek block) (HO)
+File: puenc-greekbasic.def 2023-02-07 v7.00v Hyperref: PDF Unicode definition (greek block) (HO)
 ) (C:\Users\Dustin\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\psdextra.def
-File: psdextra.def 2023-04-22 v7.00x Hyperref: Additions to PDF string support
+File: psdextra.def 2023-02-07 v7.00v Hyperref: Additions to PDF string support
 ) (C:\Users\Dustin\AppData\Local\Programs\MiKTeX\tex/generic/colorprofiles\colorprofiles.sty
 Package: colorprofiles 2018/11/01 v1.0.1 color profiles for PDF/X and PDF/A support
  (C:\Users\Dustin\AppData\Local\Programs\MiKTeX\tex/generic/colorprofiles\colorprofiles.tex)) (C:\Users\Dustin\AppData\Local\Programs\MiKTeX\tex/generic/stringenc\se-pdfdoc.def
@@ -503,7 +505,7 @@ File: tudathesis.cfg 2023/04/24 v3.30 SpecialFeaturesforpublicationtype'thesis'u
 )
 \g_ptxcd_PaperID_box=\box62
 ) (C:\Users\Dustin\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
-Package: babel 2023/05/11 v3.89 The Babel package
+Package: babel 2023/03/28 3.87 The Babel package
 \babel@savecnt=\count286
 \U@D=\dimen174
 \l@unhyphenated=\language79
@@ -519,8 +521,7 @@ File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of 
 )
 Package babel Info: Main language set with 'main='. Except if you have
 (babel)             problems, prefer the default mechanism for setting
-(babel)             the main language, ie, as the last declared.
-(babel)             Reported on input line 4170.
+(babel)             the main language. Reported on input line 4339.
  (C:\Users\Dustin\AppData\Local\Programs\MiKTeX\tex/latex/babel-german\ngerman.ldf
 Language: ngerman 2021/02/27 v2.13 German support for babel (post-1996 orthography)
  (C:\Users\Dustin\AppData\Local\Programs\MiKTeX\tex/latex/babel-german\ngermanb.ldf
@@ -794,7 +795,7 @@ File: biblatex.cfg
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Document encoding is UTF8 ....
 Package biblatex Info: ... and expl3
-(biblatex)             2023-05-11 L3 programming layer (loader) 
+(biblatex)             2023-03-30 L3 programming layer (loader) 
 (biblatex)             is new enough (at least 2020/04/06),
 (biblatex)             setting 'casechanger=expl3'.
  (C:\Users\Dustin\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-case-expl3.sty
@@ -1248,88 +1249,80 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--2
 chapter 1.
 [5
 
-]
+] [6]
 chapter 2.
-[6
+[7
 
 ]
 chapter 3.
 LaTeX Font Info:    Font shape `T1/Roboto-LF/b/n' aliased to
-(Font)              `T1/Roboto-LF/bold/n' on input line 50.
+(Font)              `T1/Roboto-LF/bold/n' on input line 51.
 LaTeX Font Info:    Font shape `T1/Roboto-LF/bold/n' will be
-(Font)              scaled to size 12.0pt on input line 50.
-[7
+(Font)              scaled to size 12.0pt on input line 51.
+[8
 
-] [8]
+] [9]
 chapter 4.
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 72.
+               Default added (so using `tbp') on input line 71.
 
-LaTeX Font Info:    Trying to load font information for TS1+XCharter-TLF on input line 98.
+LaTeX Font Info:    Trying to load font information for TS1+XCharter-TLF on input line 93.
 (C:\Users\Dustin\AppData\Local\Programs\MiKTeX\tex/latex/xcharter\ts1xcharter-tlf.fd
 File: TS1XCharter-TLF.fd 2020/05/25 (msharpe) Font definitions for TS1/XCharter-TLF.
 )
 LaTeX Font Info:    Font shape `TS1/XCharter-TLF/m/n' will be
-(Font)              scaled to size 10.95pt on input line 98.
+(Font)              scaled to size 10.95pt on input line 93.
 Package microtype Info: Character `textbardbl ' is missing
 (microtype)             in font `TS1/XCharter-TLF/m/n/10.95'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `textcelsius ' is missing
 (microtype)             in font `TS1/XCharter-TLF/m/n/10.95'.
 (microtype)             Ignoring protrusion settings for this character.
- [9
+ [10
 
-] [10{C:/Users/Dustin/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/xcharter/xch1_co4ru4.enc}]
+{C:/Users/Dustin/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/xcharter/xch1_co4ru4.enc}] [11]
 LaTeX Font Info:    Font shape `T1/XCharter-TLF/b/n' will be
-(Font)              scaled to size 10.95pt on input line 136.
- [11]
-Underfull \hbox (badness 10000) in paragraph at lines 161--161
+(Font)              scaled to size 10.95pt on input line 135.
+ [12]
 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 178--178
-
- []
-
-[12]
-
-LaTeX Warning: Citation 'kivikangas2011review' on page 13 undefined on input line 189.
+LaTeX Warning: Citation 'kivikangas2011review' on page 13 undefined on input line 186.
 
 
-LaTeX Warning: Citation 'kivikangas2011review' on page 13 undefined on input line 193.
+LaTeX Warning: Citation 'kivikangas2011review' on page 13 undefined on input line 187.
 
 
-LaTeX Warning: Citation 'kivikangas2011review' on page 13 undefined on input line 199.
+LaTeX Warning: Citation 'kivikangas2011review' on page 13 undefined on input line 188.
+
+[13]
+
+LaTeX Warning: Citation 'kivikangas2011review' on page 14 undefined on input line 197.
 
 
-LaTeX Warning: Citation 'kivikangas2011review' on page 13 undefined on input line 210.
+LaTeX Warning: Citation 'kivikangas2011review' on page 14 undefined on input line 198.
 
 
-LaTeX Warning: Citation 'kivikangas2011review' on page 13 undefined on input line 211.
+LaTeX Warning: Citation 'kivikangas2011review' on page 14 undefined on input line 200.
 
 
-LaTeX Warning: Citation 'kivikangas2011review' on page 13 undefined on input line 213.
+LaTeX Warning: Citation 'kivikangas2011review' on page 14 undefined on input line 202.
 
 
-LaTeX Warning: Citation 'kivikangas2011review' on page 13 undefined on input line 215.
+LaTeX Warning: Citation 'kivikangas2011review' on page 14 undefined on input line 205.
 
+[14]
 
-LaTeX Warning: Citation 'kivikangas2011review' on page 13 undefined on input line 218.
+LaTeX Warning: Citation 'kivikangas2011review' on page 15 undefined on input line 239.
 
-[13] [14]
+[15]
 
-LaTeX Warning: Citation 'kivikangas2011review' on page 15 undefined on input line 250.
+LaTeX Warning: Citation 'kivikangas2011review' on page 16 undefined on input line 252.
 
-
-LaTeX Warning: Citation 'kivikangas2011review' on page 15 undefined on input line 263.
-
-[15] [16]
+[16] [17] [18]
 chapter 5.
-) [17
+) [19
 
-] [18
+] [20
 
 
 ]
@@ -1352,9 +1345,9 @@ LaTeX Font Info:    Font shape `T1/XCharter-TLF/m/sc' will be
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/XCharter-TLF/m/sc/10.95'.
 (microtype)             Ignoring protrusion settings for this character.
- [19
+ [21
 
-{C:/Users/Dustin/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/roboto/rbto_e24joy.enc}{C:/Users/Dustin/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/xcharter/xch_yelf2i.enc}] [20] (appendix.tex [21]
+{C:/Users/Dustin/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/roboto/rbto_e24joy.enc}{C:/Users/Dustin/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/xcharter/xch_yelf2i.enc}] [22] [23] (appendix.tex [24]
 chapter A.
 )
 
@@ -1362,7 +1355,7 @@ Package acro Warning: Empty acronym list. If you have used acronyms then
 (acro)                re-compile to get the list filled. Otherwise remove
 (acro)                \printacronyms
 
-[22
+[25
 
 ] (main.aux)
 
@@ -1380,17 +1373,17 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 40215 strings out of 476360
- 862143 string characters out of 5787553
- 1876993 words of memory out of 5000000
- 59688 multiletter control sequences out of 15000+600000
- 624406 words of font info for 210 fonts, out of 8000000 for 9000
+ 40084 strings out of 476331
+ 859442 string characters out of 5787294
+ 1876660 words of memory out of 5000000
+ 59567 multiletter control sequences out of 15000+600000
+ 624738 words of font info for 212 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
- 122i,20n,131p,11006b,3044s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 122i,20n,131p,11007b,3042s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/Dustin/AppData/Local/Programs/MiKTeX/fonts/type1/google/roboto/Roboto-Bold.pfb><C:/Users/Dustin/AppData/Local/Programs/MiKTeX/fonts/type1/google/roboto/Roboto-Regular.pfb><C:/Users/Dustin/AppData/Local/Programs/MiKTeX/fonts/type1/google/roboto/RobotoMono-Regular.pfb><C:/Users/Dustin/AppData/Local/Programs/MiKTeX/fonts/type1/public/xcharter/XCharter-Bold.pfb><C:/Users/Dustin/AppData/Local/Programs/MiKTeX/fonts/type1/public/xcharter/XCharter-Italic.pfb><C:/Users/Dustin/AppData/Local/Programs/MiKTeX/fonts/type1/public/xcharter/XCharter-Roman.pfb><C:/Users/Dustin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb>
-Output written on main.pdf (22 pages, 507818 bytes).
+Output written on main.pdf (25 pages, 518211 bytes).
 PDF statistics:
- 556 PDF objects out of 1000 (max. 8388607)
- 156 named destinations out of 1000 (max. 500000)
- 55066 words of extra memory for PDF output out of 61914 (max. 10000000)
+ 584 PDF objects out of 1000 (max. 8388607)
+ 168 named destinations out of 1000 (max. 500000)
+ 55058 words of extra memory for PDF output out of 61914 (max. 10000000)
 
