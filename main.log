@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.5.18)  12 JUN 2023 14:50
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.5.18)  14 JUN 2023 17:49
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -944,76 +944,154 @@ Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
 \fb@frh=\dimen263
 \FrameRule=\dimen264
 \FrameSep=\dimen265
+) (C:\Users\Dustin\AppData\Local\Programs\MiKTeX\tex/latex/tools\multicol.sty
+Package: multicol 2021/11/30 v1.9d multicolumn formatting (FMi)
+\c@tracingmulticols=\count449
+\mult@box=\box70
+\multicol@leftmargin=\dimen266
+\c@unbalance=\count450
+\c@collectmore=\count451
+\doublecol@number=\count452
+\multicoltolerance=\count453
+\multicolpretolerance=\count454
+\full@width=\dimen267
+\page@free=\dimen268
+\premulticols=\dimen269
+\postmulticols=\dimen270
+\multicolsep=\skip97
+\multicolbaselineskip=\skip98
+\partial@page=\box71
+\last@line=\box72
+\maxbalancingoverflow=\dimen271
+\mult@rightbox=\box73
+\mult@grightbox=\box74
+\mult@firstbox=\box75
+\mult@gfirstbox=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\@tempa=\box91
+\@tempa=\box92
+\@tempa=\box93
+\@tempa=\box94
+\@tempa=\box95
+\@tempa=\box96
+\@tempa=\box97
+\@tempa=\box98
+\@tempa=\box99
+\@tempa=\box100
+\@tempa=\box101
+\@tempa=\box102
+\@tempa=\box103
+\@tempa=\box104
+\@tempa=\box105
+\@tempa=\box106
+\@tempa=\box107
+\@tempa=\box108
+\@tempa=\box109
+\@tempa=\box110
+\@tempa=\box111
+\@tempa=\box112
+\c@minrows=\count455
+\c@columnbadness=\count456
+\c@finalcolumnbadness=\count457
+\last@try=\dimen272
+\multicolovershoot=\dimen273
+\multicolundershoot=\dimen274
+\mult@nat@firstbox=\box113
+\colbreak@box=\box114
+\mc@col@check@num=\count458
+) (C:\Users\Dustin\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\labelindent=\skip99
+\enit@outerparindent=\dimen275
+\enit@toks=\toks32
+\enit@inbox=\box115
+\enit@count@id=\count459
+\enitdp@description=\count460
+) (C:\Users\Dustin\AppData\Local\Programs\MiKTeX\tex/latex/fundus-calligra\calligra.sty
+Package: calligra 2012/04/10 v1.9 LaTeX package calligra
 ) (macros.tex)
-LaTeX Info: Redefining \oldstylenums on input line 43.
+LaTeX Info: Redefining \oldstylenums on input line 64.
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
  (main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-Package scrbase Info: activating english \abstractname on input line 43.
-Package scrbase Info: activating english \partname on input line 43.
-Package scrbase Info: activating english \chaptername on input line 43.
-Package scrbase Info: activating english \appendixname on input line 43.
-Package scrbase Info: activating english \figurename on input line 43.
-Package scrbase Info: activating english \tablename on input line 43.
-Package scrbase Info: activating english \contentsname on input line 43.
-Package scrbase Info: activating english \listfigurename on input line 43.
-Package scrbase Info: activating english \listtablename on input line 43.
-Package scrbase Info: activating english \bibname on input line 43.
-Package scrbase Info: activating english \indexname on input line 43.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+Package scrbase Info: activating english \abstractname on input line 64.
+Package scrbase Info: activating english \partname on input line 64.
+Package scrbase Info: activating english \chaptername on input line 64.
+Package scrbase Info: activating english \appendixname on input line 64.
+Package scrbase Info: activating english \figurename on input line 64.
+Package scrbase Info: activating english \tablename on input line 64.
+Package scrbase Info: activating english \contentsname on input line 64.
+Package scrbase Info: activating english \listfigurename on input line 64.
+Package scrbase Info: activating english \listtablename on input line 64.
+Package scrbase Info: activating english \bibname on input line 64.
+Package scrbase Info: activating english \indexname on input line 64.
  (C:\Users\Dustin\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count449
-\scratchdimen=\dimen266
-\scratchbox=\box70
-\nofMPsegments=\count450
-\nofMParguments=\count451
-\everyMPshowfont=\toks32
-\MPscratchCnt=\count452
-\MPscratchDim=\dimen267
-\MPnumerator=\count453
-\makeMPintoPDFobject=\count454
-\everyMPtoPDFconversion=\toks33
+\scratchcounter=\count461
+\scratchdimen=\dimen276
+\scratchbox=\box116
+\nofMPsegments=\count462
+\nofMParguments=\count463
+\everyMPshowfont=\toks33
+\MPscratchCnt=\count464
+\MPscratchDim=\dimen277
+\MPnumerator=\count465
+\makeMPintoPDFobject=\count466
+\everyMPtoPDFconversion=\toks34
 ) (C:\Users\Dustin\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
  (C:\Users\Dustin\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-\c@mv@tabular=\count455
-\c@mv@boldtabular=\count456
-LaTeX Info: Redefining \microtypecontext on input line 43.
-Package microtype Info: Applying patch `item' on input line 43.
-Package microtype Info: Applying patch `toc' on input line 43.
-Package microtype Info: Applying patch `eqnum' on input line 43.
-Package microtype Info: Applying patch `footnote' on input line 43.
-Package microtype Info: Applying patch `verbatim' on input line 43.
+\c@mv@tabular=\count467
+\c@mv@boldtabular=\count468
+LaTeX Info: Redefining \microtypecontext on input line 64.
+Package microtype Info: Applying patch `item' on input line 64.
+Package microtype Info: Applying patch `toc' on input line 64.
+Package microtype Info: Applying patch `eqnum' on input line 64.
+Package microtype Info: Applying patch `footnote' on input line 64.
+Package microtype Info: Applying patch `verbatim' on input line 64.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `alltext-nott'.
-LaTeX Info: Redefining \showhyphens on input line 43.
+LaTeX Info: Redefining \showhyphens on input line 64.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
@@ -1054,25 +1132,26 @@ File: mt-bch.cfg 2007/03/03 v1.5 microtype config. file: Bitstream Charter (RS)
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-\ptxcd_headrule_box=\box71
-Package scrbase Info: activating english \ptxcd_byname on input line 43.
-Package scrbase Info: activating english \ptxcd_fromname on input line 43.
-Package scrbase Info: activating english \ptxcd_departmentprefix: on input line 43.
-Package scrbase Info: activating english \ptxcd_reviewname on input line 43.
-Package scrbase Info: activating english \ptxcd_examdatename on input line 43.
-Package scrbase Info: activating english \ptxcd_submissiondatename on input line 43.
-Package scrbase Info: activating english \ptxcd_studentIDname on input line 43.
-Package scrbase Info: activating english \g__ptxcd_cc_attr_by: on input line 43.
-Package scrbase Info: activating english \g__ptxcd_cc_attr_nc: on input line 43.
-Package scrbase Info: activating english \g__ptxcd_cc_attr_sa: on input line 43.
-Package scrbase Info: activating english \g__ptxcd_cc_attr_nd: on input line 43.
-Package scrbase Info: activating english \g__ptxcd_cc_intro: on input line 43.
-Package scrbase Info: activating english \g__ptxcd_cc_sep: on input line 43.
-Package scrbase Info: activating english \researchgroupname on input line 43.
-Package scrbase Info: activating english \institutename on input line 43.
-Package scrbase Info: activating english \authorandname on input line 43.
-Package scrbase Info: activating english \ptxcd_datename on input line 43.
-Package hyperref Info: Link coloring OFF on input line 43.
+\ptxcd_headrule_box=\box117
+Package scrbase Info: activating english \ptxcd_byname on input line 64.
+Package scrbase Info: activating english \ptxcd_fromname on input line 64.
+Package scrbase Info: activating english \ptxcd_departmentprefix: on input line 64.
+Package scrbase Info: activating english \ptxcd_reviewname on input line 64.
+Package scrbase Info: activating english \ptxcd_examdatename on input line 64.
+Package scrbase Info: activating english \ptxcd_submissiondatename on input line 64.
+Package scrbase Info: activating english \ptxcd_studentIDname on input line 64.
+Package scrbase Info: activating english \g__ptxcd_cc_attr_by: on input line 64.
+Package scrbase Info: activating english \g__ptxcd_cc_attr_nc: on input line 64.
+Package scrbase Info: activating english \g__ptxcd_cc_attr_sa: on input line 64.
+Package scrbase Info: activating english \g__ptxcd_cc_attr_nd: on input line 64.
+Package scrbase Info: activating english \g__ptxcd_cc_intro: on input line 64.
+Package scrbase Info: activating english \g__ptxcd_cc_sep: on input line 64.
+Package scrbase Info: activating english \researchgroupname on input line 64.
+Package scrbase Info: activating english \institutename on input line 64.
+Package scrbase Info: activating english \authorandname on input line 64.
+Package scrbase Info: activating english \ptxcd_datename on input line 64.
+Package hyperref Info: Link coloring OFF on input line 64.
+(main.out) (main.out)
 \@outlinefile=\write5
 \openout5 = `main.out'.
 
@@ -1083,12 +1162,12 @@ Class scrreprt Info: loading recommended package `bookmark'.
 (scrreprt)           `bookmarkpackage=false' before \begin{document} and
 (scrreprt)           you can avoid this message adding:
 (scrreprt)             \usepackage{bookmark}
-(scrreprt)           before \begin{document} on input line 43.
-(C:\Users\Dustin\AppData\Local\Programs\MiKTeX\tex/latex/bookmark\bookmark.sty
+(scrreprt)           before \begin{document} on input line 64.
+ (C:\Users\Dustin\AppData\Local\Programs\MiKTeX\tex/latex/bookmark\bookmark.sty
 Package: bookmark 2020-11-06 v1.29 PDF bookmarks (HO)
  (C:\Users\Dustin\AppData\Local\Programs\MiKTeX\tex/latex/bookmark\bkm-pdftex.def
 File: bkm-pdftex.def 2020-11-06 v1.29 bookmark driver for pdfTeX (HO)
-\BKM@id=\count457
+\BKM@id=\count469
 ))
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
@@ -1117,85 +1196,85 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' found.
  (main.bbl)
-Package biblatex Info: Reference section=0 on input line 43.
-Package biblatex Info: Reference segment=0 on input line 43.
+Package biblatex Info: Reference section=0 on input line 64.
+Package biblatex Info: Reference segment=0 on input line 64.
  (C:\Users\Dustin\AppData\Local\Programs\MiKTeX\tex/latex/translations/dicts\translations-basic-dictionary-english.trsl
 File: translations-basic-dictionary-english.trsl (english translation file `translations-basic-dictionary')
 )
-Package translations Info: loading dictionary `translations-basic-dictionary' for `english'. on input line 43.
+Package translations Info: loading dictionary `translations-basic-dictionary' for `english'. on input line 64.
  (C:\Users\Dustin\AppData\Local\Programs\MiKTeX\tex/latex/translations/dicts\translations-basic-dictionary-german.trsl
 File: translations-basic-dictionary-german.trsl (german translation file `translations-basic-dictionary')
 )
-Package translations Info: loading dictionary `translations-basic-dictionary' for `german'. on input line 43.
+Package translations Info: loading dictionary `translations-basic-dictionary' for `german'. on input line 64.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
-Package scrbase Info: activating english \ptxcd_department: on input line 58.
-Package scrbase Info: activating english \departmentname on input line 58.
-Package scrbase Info: activating english \ptxcd_departmentprefix: on input line 58.
-Package scrbase Info: activating english \departmentfullname on input line 58.
+Package scrbase Info: activating english \ptxcd_department: on input line 81.
+Package scrbase Info: activating english \departmentname on input line 81.
+Package scrbase Info: activating english \ptxcd_departmentprefix: on input line 81.
+Package scrbase Info: activating english \departmentfullname on input line 81.
 \ptxcd_xmpdata_stream=\write6
 \openout6 = `main.xmpdata'.
 
-LaTeX Font Info:    Trying to load font information for T1+Roboto-LF on input line 58.
+LaTeX Font Info:    Trying to load font information for T1+Roboto-LF on input line 81.
  (C:\Users\Dustin\AppData\Local\Programs\MiKTeX\tex/latex/roboto\t1roboto-lf.fd
 File: T1Roboto-LF.fd 2019/12/11 (autoinst) Font definitions for T1/Roboto-LF.
 )
 LaTeX Font Info:    Font shape `T1/Roboto-LF/m/n' aliased to
-(Font)              `T1/Roboto-LF/regular/n' on input line 58.
+(Font)              `T1/Roboto-LF/regular/n' on input line 81.
 LaTeX Font Info:    Font shape `T1/Roboto-LF/regular/n' will be
-(Font)              scaled to size 10.95pt on input line 58.
+(Font)              scaled to size 10.95pt on input line 81.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `Roboto-LF' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `T1/Roboto-LF/b/n' aliased to
-(Font)              `T1/Roboto-LF/bold/n' on input line 58.
+(Font)              `T1/Roboto-LF/bold/n' on input line 81.
 LaTeX Font Info:    Font shape `T1/Roboto-LF/bold/n' will be
-(Font)              scaled to size 10.95pt on input line 58.
+(Font)              scaled to size 10.95pt on input line 81.
 LaTeX Font Info:    Font shape `T1/Roboto-LF/b/n' aliased to
-(Font)              `T1/Roboto-LF/bold/n' on input line 58.
+(Font)              `T1/Roboto-LF/bold/n' on input line 81.
 LaTeX Font Info:    Font shape `T1/Roboto-LF/bold/n' will be
-(Font)              scaled to size 36.0pt on input line 58.
-LaTeX Font Info:    Trying to load font information for T1+Roboto-TLF on input line 58.
+(Font)              scaled to size 36.0pt on input line 81.
+LaTeX Font Info:    Trying to load font information for T1+Roboto-TLF on input line 81.
  (C:\Users\Dustin\AppData\Local\Programs\MiKTeX\tex/latex/roboto\t1roboto-tlf.fd
 File: T1Roboto-TLF.fd 2019/12/11 (autoinst) Font definitions for T1/Roboto-TLF.
 )
 LaTeX Font Info:    Font shape `T1/Roboto-TLF/m/n' aliased to
-(Font)              `T1/Roboto-TLF/regular/n' on input line 58.
+(Font)              `T1/Roboto-TLF/regular/n' on input line 81.
 LaTeX Font Info:    Font shape `T1/Roboto-TLF/regular/n' will be
-(Font)              scaled to size 10.95pt on input line 58.
+(Font)              scaled to size 10.95pt on input line 81.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `Roboto-TLF' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `T1/Roboto-TLF/m/n' aliased to
-(Font)              `T1/Roboto-TLF/regular/n' on input line 58.
+(Font)              `T1/Roboto-TLF/regular/n' on input line 81.
 LaTeX Font Info:    Font shape `T1/Roboto-TLF/regular/n' will be
-(Font)              scaled to size 12.0pt on input line 58.
+(Font)              scaled to size 12.0pt on input line 81.
 LaTeX Font Info:    Font shape `T1/Roboto-TLF/b/n' aliased to
-(Font)              `T1/Roboto-TLF/bold/n' on input line 58.
+(Font)              `T1/Roboto-TLF/bold/n' on input line 81.
 LaTeX Font Info:    Font shape `T1/Roboto-TLF/bold/n' will be
-(Font)              scaled to size 12.0pt on input line 58.
+(Font)              scaled to size 12.0pt on input line 81.
 <tuda_logo.png, id=6, 1204.5pt x 1427.3325pt>
 File: tuda_logo.png Graphic file (type png)
 <use tuda_logo.png>
-Package pdftex.def Info: tuda_logo.png  used on input line 58.
+Package pdftex.def Info: tuda_logo.png  used on input line 81.
 (pdftex.def)             Requested size: 52.82172pt x 62.59605pt.
  (C:\Users\Dustin\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman (RS)
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 58.
+(Font)              <10.95> on input line 81.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 58.
+(Font)              <8> on input line 81.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 58.
+(Font)              <6> on input line 81.
 LaTeX Font Info:    Font shape `T1/XCharter-TLF/m/n' will be
-(Font)              scaled to size 10.0pt on input line 58.
+(Font)              scaled to size 10.0pt on input line 81.
 LaTeX Font Info:    Font shape `T1/Roboto-LF/m/n' aliased to
-(Font)              `T1/Roboto-LF/regular/n' on input line 58.
+(Font)              `T1/Roboto-LF/regular/n' on input line 81.
 LaTeX Font Info:    Font shape `T1/Roboto-LF/regular/n' will be
-(Font)              scaled to size 10.0pt on input line 58.
+(Font)              scaled to size 10.0pt on input line 81.
  [1{C:/Users/Dustin/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/roboto/rbto_b5rac7.enc}
 
 
@@ -1206,16 +1285,14 @@ LaTeX Font Info:    Font shape `T1/Roboto-LF/regular/n' will be
 
 
 {C:/Users/Dustin/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/roboto/rbto_4jpen6.enc} <./tuda_logo.png>]
-LaTeX Font Info:    Font shape `T1/Roboto-LF/b/n' aliased to
-(Font)              `T1/Roboto-LF/bold/n' on input line 60.
-LaTeX Font Info:    Font shape `T1/Roboto-LF/bold/n' will be
-(Font)              scaled to size 14.4pt on input line 60.
+LaTeX Font Info:    Font shape `T1/XCharter-TLF/b/n' will be
+(Font)              scaled to size 12.0pt on input line 83.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 60.
+(Font)              <12> on input line 83.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 60.
+(Font)              <7> on input line 83.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 60.
+(Font)              <5> on input line 83.
  [2
 
 
@@ -1224,158 +1301,126 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 
 {C:/Users/Dustin/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/xcharter/xch_rydp4l.enc}]
-LaTeX Font Info:    Font shape `T1/Roboto-LF/b/n' aliased to
-(Font)              `T1/Roboto-LF/bold/n' on input line 60.
-LaTeX Font Info:    Font shape `T1/Roboto-LF/bold/n' will be
-(Font)              scaled to size 20.74pt on input line 60.
-Package tocbasic Info: character protrusion at toc deactivated on input line 60.
+Package tocbasic Info: character protrusion at toc deactivated on input line 83.
+ (main.toc [3
 
-No file main.toc.
+
+])
 \tf@toc=\write7
 \openout7 = `main.toc'.
 
-(abstract.tex [3
-
-
-]
+ (abstract.tex [4]
 Underfull \hbox (badness 10000) in paragraph at lines 2--2
 
  []
 
-) (content.tex [4
-
-]
+) (content.tex
 chapter 1.
+LaTeX Font Info:    Font shape `T1/XCharter-TLF/m/n' will be
+(Font)              scaled to size 12.0pt on input line 2.
 [5
 
 ] [6]
 chapter 2.
-[7
-
-]
+[7]
 chapter 3.
-LaTeX Font Info:    Font shape `T1/Roboto-LF/b/n' aliased to
-(Font)              `T1/Roboto-LF/bold/n' on input line 53.
-LaTeX Font Info:    Font shape `T1/Roboto-LF/bold/n' will be
-(Font)              scaled to size 12.0pt on input line 53.
-[8
-
-] [9]
+[8]
 chapter 4.
 
-LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 73.
+Underfull \hbox (badness 10000) in paragraph at lines 58--58
+[]\T1/XCharter-TLF/b/n/12 (+20) Impact of train-ing fre-quency of
+ []
 
-LaTeX Font Info:    Trying to load font information for TS1+XCharter-TLF on input line 95.
+[9]
+LaTeX Font Info:    Font shape `T1/Roboto-LF/b/n' aliased to
+(Font)              `T1/Roboto-LF/bold/n' on input line 85.
+LaTeX Font Info:    Font shape `T1/Roboto-LF/bold/n' will be
+(Font)              scaled to size 12.0pt on input line 85.
+ [10]
+chapter 5.
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 105.
+
+
+Overfull \hbox (165.51355pt too wide) in paragraph at lines 106--115
+[][] 
+ []
+
+
+Package multicol Warning: Floats and marginpars not allowed inside `multicols' environment!.
+
+
+Package multicol Warning: Floats and marginpars not allowed inside `multicols' environment!.
+
+LaTeX Font Info:    Trying to load font information for TS1+XCharter-TLF on input line 136.
 (C:\Users\Dustin\AppData\Local\Programs\MiKTeX\tex/latex/xcharter\ts1xcharter-tlf.fd
 File: TS1XCharter-TLF.fd 2020/05/25 (msharpe) Font definitions for TS1/XCharter-TLF.
 )
 LaTeX Font Info:    Font shape `TS1/XCharter-TLF/m/n' will be
-(Font)              scaled to size 10.95pt on input line 95.
+(Font)              scaled to size 10.95pt on input line 136.
 Package microtype Info: Character `textbardbl ' is missing
 (microtype)             in font `TS1/XCharter-TLF/m/n/10.95'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `textcelsius ' is missing
 (microtype)             in font `TS1/XCharter-TLF/m/n/10.95'.
 (microtype)             Ignoring protrusion settings for this character.
- [10
-
-{C:/Users/Dustin/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/xcharter/xch1_co4ru4.enc}] [11]
+ [11{C:/Users/Dustin/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/xcharter/xch1_co4ru4.enc}]
+<PXI_vs_PENS.png, id=277, 1065.22969pt x 478.78876pt>
+File: PXI_vs_PENS.png Graphic file (type png)
+<use PXI_vs_PENS.png>
+Package pdftex.def Info: PXI_vs_PENS.png  used on input line 169.
+(pdftex.def)             Requested size: 251.07481pt x 112.85143pt.
+ [12 <./PXI_vs_PENS.png>]
 LaTeX Font Info:    Font shape `T1/XCharter-TLF/b/n' will be
-(Font)              scaled to size 10.95pt on input line 137.
- [12]
-
-LaTeX Warning: Citation 'kivikangas2011review' on page 13 undefined on input line 188.
-
-
-LaTeX Warning: Citation 'kivikangas2011review' on page 13 undefined on input line 189.
+(Font)              scaled to size 10.95pt on input line 199.
+ [13] [14] [15] [16] [17]
+Underfull \hbox (badness 10000) in paragraph at lines 383--390
+[]\T1/XCharter-TLF/m/n/10.95 (+20) Physical Ac-tiv-ity and En-ergy Ex-pen-di-ture
+ []
 
 
-LaTeX Warning: Citation 'kivikangas2011review' on page 13 undefined on input line 190.
-
-[13]
-
-LaTeX Warning: Citation 'kivikangas2011review' on page 14 undefined on input line 199.
+Overfull \hbox (44.13055pt too wide) in paragraph at lines 391--402
+[]\T1/XCharter-TLF/m/n/10.95 (-20) Cognitive Health and Func-tion *****************************
+ []
 
 
-LaTeX Warning: Citation 'kivikangas2011review' on page 14 undefined on input line 200.
+Overfull \hbox (126.86449pt too wide) in paragraph at lines 403--413
+[]\T1/XCharter-TLF/m/n/10.95 (-20) Psychological and Be-hav-ioral Mea-sures *************************************
+ []
 
-
-LaTeX Warning: Citation 'kivikangas2011review' on page 14 undefined on input line 202.
-
-
-LaTeX Warning: Citation 'kivikangas2011review' on page 14 undefined on input line 204.
-
-
-LaTeX Warning: Citation 'kivikangas2011review' on page 14 undefined on input line 207.
-
-[14]
-
-LaTeX Warning: Citation 'kivikangas2011review' on page 15 undefined on input line 241.
-
-[15]
-
-LaTeX Warning: Citation 'kivikangas2011review' on page 16 undefined on input line 254.
-
-[16]
-
-LaTeX Warning: Citation 'link_studyquality' on page 17 undefined on input line 266.
-
-
-LaTeX Warning: Citation 'gao2014field' on page 17 undefined on input line 267.
-
-
-LaTeX Warning: Citation 'huang2017can' on page 17 undefined on input line 269.
-
-
-LaTeX Warning: Citation 'gao2014field' on page 17 undefined on input line 272.
-
-content.tex:284: Too many }'s.
-<recently read> }
-                 
-l.284 1RM (4 from \cite{viana2021effects}}
-                                          )
-You've closed more groups than you opened.
-Such booboos are generally harmless, so keep going.
-
-[17] [18] [19]
-chapter 5.
-[20
-
-]
+[18] [19] [20]
 chapter 6.
-[21
-
-]
+[21]
 chapter 7.
-) [22
-
-] [23
+[22]
+chapter 8.
+) [23] [24
 
 
 ]
-LaTeX Font Info:    Trying to load font information for T1+RobotoMono-TLF on input line 67.
+LaTeX Font Info:    Trying to load font information for T1+RobotoMono-TLF on input line 92.
  (C:\Users\Dustin\AppData\Local\Programs\MiKTeX\tex/latex/roboto\t1robotomono-tlf.fd
 File: T1RobotoMono-TLF.fd 2019/12/11 (autoinst) Font definitions for T1/RobotoMono-TLF.
 )
 LaTeX Font Info:    Font shape `T1/RobotoMono-TLF/m/n' aliased to
-(Font)              `T1/RobotoMono-TLF/regular/n' on input line 67.
+(Font)              `T1/RobotoMono-TLF/regular/n' on input line 92.
 LaTeX Font Info:    Font shape `T1/RobotoMono-TLF/regular/n' will be
-(Font)              scaled to size 10.95pt on input line 67.
+(Font)              scaled to size 10.95pt on input line 92.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `RobotoMono-TLF' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `T1/XCharter-TLF/m/it' will be
-(Font)              scaled to size 10.95pt on input line 67.
+(Font)              scaled to size 10.95pt on input line 92.
 LaTeX Font Info:    Font shape `T1/XCharter-TLF/m/sc' will be
-(Font)              scaled to size 10.95pt on input line 67.
+(Font)              scaled to size 10.95pt on input line 92.
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/XCharter-TLF/m/sc/10.95'.
 (microtype)             Ignoring protrusion settings for this character.
- [24
+ [25
 
-{C:/Users/Dustin/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/roboto/rbto_e24joy.enc}{C:/Users/Dustin/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/xcharter/xch_yelf2i.enc}] [25] [26] (appendix.tex [27]
+{C:/Users/Dustin/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/roboto/rbto_e24joy.enc}{C:/Users/Dustin/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/xcharter/xch_yelf2i.enc}] [26] [27] [28] [29] (appendix.tex [30]
 chapter A.
 )
 
@@ -1383,44 +1428,27 @@ Package acro Warning: Empty acronym list. If you have used acronyms then
 (acro)                re-compile to get the list filled. Otherwise remove
 (acro)                \printacronyms
 
-[28
+[31
 
 ] (main.aux)
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-
-Package rerunfilecheck Warning: File `main.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `main.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  D41D8CD98F00B204E9800998ECF8427E;0.
-
-Package biblatex Warning: Please (re)run Biber on the file:
-(biblatex)                main
-(biblatex)                and rerun LaTeX afterwards.
-
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 40266 strings out of 476360
- 863958 string characters out of 5787553
- 1876993 words of memory out of 5000000
- 59719 multiletter control sequences out of 15000+600000
- 624846 words of font info for 213 fonts, out of 8000000 for 9000
+ 40958 strings out of 476360
+ 879957 string characters out of 5787553
+ 1882993 words of memory out of 5000000
+ 60327 multiletter control sequences out of 15000+600000
+ 631596 words of font info for 235 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
- 122i,20n,131p,11006b,3042s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 122i,20n,131p,11006b,3911s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/Dustin/AppData/Local/Programs/MiKTeX/fonts/type1/google/roboto/Roboto-Bold.pfb><C:/Users/Dustin/AppData/Local/Programs/MiKTeX/fonts/type1/google/roboto/Roboto-Regular.pfb><C:/Users/Dustin/AppData/Local/Programs/MiKTeX/fonts/type1/google/roboto/RobotoMono-Regular.pfb><C:/Users/Dustin/AppData/Local/Programs/MiKTeX/fonts/type1/public/xcharter/XCharter-Bold.pfb><C:/Users/Dustin/AppData/Local/Programs/MiKTeX/fonts/type1/public/xcharter/XCharter-Italic.pfb><C:/Users/Dustin/AppData/Local/Programs/MiKTeX/fonts/type1/public/xcharter/XCharter-Roman.pfb><C:/Users/Dustin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb>
-Output written on main.pdf (28 pages, 525414 bytes).
+Output written on main.pdf (31 pages, 709353 bytes).
 PDF statistics:
- 590 PDF objects out of 1000 (max. 8388607)
- 178 named destinations out of 1000 (max. 500000)
- 55090 words of extra memory for PDF output out of 61914 (max. 10000000)
+ 768 PDF objects out of 1000 (max. 8388607)
+ 213 named destinations out of 1000 (max. 500000)
+ 53135 words of extra memory for PDF output out of 61914 (max. 10000000)
 

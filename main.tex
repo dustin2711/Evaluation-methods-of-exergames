@@ -36,11 +36,34 @@
 \usepackage{pifont}% Zapf-Dingbats Symbole
 \usepackage{subcaption}
 \usepackage{framed}
-
+\usepackage{multicol} % Enables using two columns for the content
+\usepackage{enumitem}
+\usepackage{calligra}
+\usepackage{graphicx}
+ 
 \input{macros}
 
+\setkomafont{chapter}{\normalfont\fontsize{18}{16}\selectfont\bfseries}
+\setkomafont{section}{\normalfont\fontsize{16}{14}\selectfont\bfseries}
+
+\RedeclareSectionCommand[
+  font=\normalfont\fontsize{12}{14}\bfseries,
+  afterindent=false,
+  beforeskip=1.5em,
+  afterskip=0.5em
+]{chapter}
+
+\RedeclareSectionCommand[
+  font=\normalfont\fontsize{12}{14}\bfseries,
+  beforeskip=1em,
+  afterskip=0.5em
+]{section}
+
+\raggedbottom
 
 \begin{document}
+
+% \setlist[enumerate]{itemsep=1, topsep=1}
 
 \title{Evaluation methods of exergames}
 \subtitle{Methods and instrument for assessing the quality of exergames}
@@ -59,7 +82,9 @@
 \affidavit % oder \affidavit[digital] falls eine rein digitale Abgabe vorgesehen ist.
 \tableofcontents
 \input{abstract}
+\begin{multicols}{2}
 \input{content}
+\end{multicols}
 \clearpage
 \chapter*{List of Acronyms}
 \printacronyms[heading={none}]
