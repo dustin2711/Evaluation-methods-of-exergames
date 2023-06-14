@@ -7,50 +7,50 @@
 \contentsline {section}{\numberline {1.2}Approach}{5}{section.1.2}%
 \contentsline {section}{\numberline {1.3}Target}{6}{section.1.3}%
 \contentsline {section}{\numberline {1.4}Terminology of exergame}{6}{section.1.4}%
-\contentsline {chapter}{\numberline {2}Measuring outcomes}{7}{chapter.2}%
-\contentsline {chapter}{\numberline {3}Motion detection}{8}{chapter.3}%
-\contentsline {chapter}{\numberline {4}Sonstiges}{9}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Avatars}{9}{section.4.1}%
-\contentsline {section}{\numberline {4.2}Impact of training frequency of exergames}{9}{section.4.2}%
-\contentsline {section}{\numberline {4.3}Gameplay metrics}{9}{section.4.3}%
-\contentsline {section}{\numberline {4.4}Impact of sport on psychology}{9}{section.4.4}%
-\contentsline {section}{\numberline {4.5}Impact of sport on psychophysiological measures}{10}{section.4.5}%
-\contentsline {subsection}{\numberline {4.5.1}HRV}{10}{subsection.4.5.1}%
-\contentsline {subsection}{\numberline {4.5.2}EEG}{10}{subsection.4.5.2}%
-\contentsline {section}{\numberline {4.6}Smartwatches}{10}{section.4.6}%
-\contentsline {chapter}{\numberline {5}Existing evaluation methods}{11}{chapter.5}%
-\contentsline {section}{\numberline {5.1}Think-aloud protocol}{11}{section.5.1}%
-\contentsline {section}{\numberline {5.2}Heuristics}{11}{section.5.2}%
-\contentsline {section}{\numberline {5.3}Questionnaires}{11}{section.5.3}%
-\contentsline {subsection}{\numberline {5.3.1}The Player Experience of Need Satisfaction (PENS) Model}{11}{subsection.5.3.1}%
-\contentsline {subsection}{\numberline {5.3.2}Cronbach's alpha)}{12}{subsection.5.3.2}%
-\contentsline {subsection}{\numberline {5.3.3}composite reliability (CR))}{12}{subsection.5.3.3}%
-\contentsline {subsection}{\numberline {5.3.4}Pearson correlation coefficient}{12}{subsection.5.3.4}%
-\contentsline {subsection}{\numberline {5.3.5}Discriminant validity}{12}{subsection.5.3.5}%
-\contentsline {subsection}{\numberline {5.3.6}The Player Experience Inventory (PXI)}{12}{subsection.5.3.6}%
-\contentsline {subsection}{\numberline {5.3.7}Self-Assessment Manikin (SAM) scale}{12}{subsection.5.3.7}%
-\contentsline {subsection}{\numberline {5.3.8}Game Experience Questionnaire (GEQ)}{12}{subsection.5.3.8}%
-\contentsline {subsection}{\numberline {5.3.9}Flow State Scale}{14}{subsection.5.3.9}%
-\contentsline {section}{\numberline {5.4}Psychophysiological measures}{15}{section.5.4}%
-\contentsline {subsection}{\numberline {5.4.1}applicability in Videos games}{15}{subsection.5.4.1}%
-\contentsline {subsection}{\numberline {5.4.2}Facial Electromyography (EMG)}{16}{subsection.5.4.2}%
-\contentsline {subsection}{\numberline {5.4.3}Electrodermal Activity (EDA) / Skin conductance}{16}{subsection.5.4.3}%
-\contentsline {subsection}{\numberline {5.4.4}Cardiac activity / Heart Rate}{16}{subsection.5.4.4}%
-\contentsline {subsection}{\numberline {5.4.5}Heart Rate Variability}{16}{subsection.5.4.5}%
-\contentsline {subsection}{\numberline {5.4.6}Finger Pulse Volume (FPV)}{16}{subsection.5.4.6}%
-\contentsline {subsection}{\numberline {5.4.7}Electroencephalography (EEG)}{16}{subsection.5.4.7}%
-\contentsline {subsection}{\numberline {5.4.8}Respiration rate}{17}{subsection.5.4.8}%
-\contentsline {subsection}{\numberline {5.4.9}Eyes}{17}{subsection.5.4.9}%
-\contentsline {subsection}{\numberline {5.4.10}Body}{17}{subsection.5.4.10}%
-\contentsline {section}{\numberline {5.5}Comparing exergames with conventional interventions}{17}{section.5.5}%
-\contentsline {subsection}{\numberline {5.5.1}Measures}{17}{subsection.5.5.1}%
-\contentsline {subsubsection}{\nonumberline Physical activity in inactive children}{19}{subsubsection*.6}%
-\contentsline {subsubsection}{\nonumberline Balance training for elder people}{19}{subsubsection*.8}%
-\contentsline {subsubsection}{\nonumberline PlayStation EyeToy intervention}{19}{subsubsection*.10}%
-\contentsline {subsubsection}{\nonumberline Exergames vs standard exercise vs no exercise}{20}{subsubsection*.12}%
-\contentsline {section}{\numberline {5.6}Evaluation of excersises}{20}{section.5.6}%
-\contentsline {chapter}{\numberline {6}Evaluation methods for exergames}{21}{chapter.6}%
+\contentsline {chapter}{\numberline {2}Impact of sport on psychology}{7}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Impact of sport on psychophysiological measures}{7}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1}HRV}{7}{subsection.2.1.1}%
+\contentsline {subsection}{\numberline {2.1.2}EEG}{7}{subsection.2.1.2}%
+\contentsline {section}{\numberline {2.2}Smartwatches}{7}{section.2.2}%
+\contentsline {chapter}{\numberline {3}Evaluation methods for video games}{8}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Think-aloud protocol}{8}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Heuristics}{8}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Questionnaires}{8}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}The Player Experience of Need Satisfaction (PENS) Model}{8}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.3.2}The Player Experience Inventory (PXI)}{9}{subsection.3.3.2}%
+\contentsline {subsection}{\numberline {3.3.3}Self-Assessment Manikin (SAM) scale}{9}{subsection.3.3.3}%
+\contentsline {subsection}{\numberline {3.3.4}Game Experience Questionnaire (GEQ)}{9}{subsection.3.3.4}%
+\contentsline {subsection}{\numberline {3.3.5}Flow State Scale}{11}{subsection.3.3.5}%
+\contentsline {section}{\numberline {3.4}Psychophysiological measures}{11}{section.3.4}%
+\contentsline {subsection}{\numberline {3.4.1}Applicability in Videos games}{11}{subsection.3.4.1}%
+\contentsline {subsection}{\numberline {3.4.2}Facial Electromyography}{12}{subsection.3.4.2}%
+\contentsline {subsection}{\numberline {3.4.3}Electrodermal Activity}{12}{subsection.3.4.3}%
+\contentsline {subsection}{\numberline {3.4.4}Heart Rate (HR)}{13}{subsection.3.4.4}%
+\contentsline {subsection}{\numberline {3.4.5}Heart Rate Variability}{13}{subsection.3.4.5}%
+\contentsline {subsection}{\numberline {3.4.6}Finger Pulse Volume}{13}{subsection.3.4.6}%
+\contentsline {subsection}{\numberline {3.4.7}Electroencephalography}{13}{subsection.3.4.7}%
+\contentsline {subsection}{\numberline {3.4.8}Respiration rate}{13}{subsection.3.4.8}%
+\contentsline {subsection}{\numberline {3.4.9}Eyes}{13}{subsection.3.4.9}%
+\contentsline {subsection}{\numberline {3.4.10}Body}{13}{subsection.3.4.10}%
+\contentsline {subsection}{\numberline {3.4.11}Physiological linkage}{14}{subsection.3.4.11}%
+\contentsline {chapter}{\numberline {4}Measuring exergame outcomes}{15}{chapter.4}%
+\contentsline {subsection}{\numberline {4.0.1}Measures}{15}{subsection.4.0.1}%
+\contentsline {subsubsection}{\nonumberline Physical activity in inactive children}{17}{subsubsection*.6}%
+\contentsline {subsubsection}{\nonumberline Balance training for elder people}{17}{subsubsection*.8}%
+\contentsline {subsubsection}{\nonumberline PlayStation EyeToy intervention}{17}{subsubsection*.10}%
+\contentsline {subsubsection}{\nonumberline Exergames vs standard exercise vs no exercise}{18}{subsubsection*.12}%
+\contentsline {chapter}{\numberline {5}Miscellaneous}{19}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Balancing difficulty}{19}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Motion detection}{19}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Avatars}{19}{section.5.3}%
+\contentsline {section}{\numberline {5.4}Impact of training frequency of exergames}{19}{section.5.4}%
+\contentsline {section}{\numberline {5.5}Gameplay metrics}{19}{section.5.5}%
+\contentsline {chapter}{\numberline {6}Explanations}{21}{chapter.6}%
+\contentsline {subsection}{\numberline {6.0.1}Cronbach's alpha)}{21}{subsection.6.0.1}%
+\contentsline {subsection}{\numberline {6.0.2}composite reliability (CR))}{21}{subsection.6.0.2}%
+\contentsline {subsection}{\numberline {6.0.3}Pearson correlation coefficient}{21}{subsection.6.0.3}%
+\contentsline {subsection}{\numberline {6.0.4}Discriminant validity}{21}{subsection.6.0.4}%
 \contentsline {chapter}{\numberline {7}Conclusion}{22}{chapter.7}%
 \contentsline {chapter}{\numberline {8}Prospect}{23}{chapter.8}%
-\contentsline {chapter}{\numberline {A}Appendix}{31}{appendix.A}%
+\contentsline {chapter}{\numberline {A}Appendix}{32}{appendix.A}%
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 

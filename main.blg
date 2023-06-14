@@ -1,18 +1,18 @@
 [0] Config.pm:307> INFO - This is Biber 2.19
 [0] Config.pm:310> INFO - Logfile is 'main.blg'
-[146] biber-MSWIN64:340> INFO - === 
-[201] Biber.pm:419> INFO - Reading 'main.bcf'
-[387] Biber.pm:979> INFO - Found 105 citekeys in bib section 0
-[405] Biber.pm:4419> INFO - Processing section 0
-[419] Biber.pm:4610> INFO - Looking for bibtex file 'bibliography.bib' for section 0
-[494] bibtex.pm:1713> INFO - LaTeX decoding ...
-[599] bibtex.pm:1519> INFO - Found BibTeX data source 'bibliography.bib'
-[1126] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[1127] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[1127] Biber.pm:4239> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
-[1127] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
-[1201] bbl.pm:660> INFO - Writing 'main.bbl' with encoding 'UTF-8'
-[1258] bbl.pm:763> INFO - Output to main.bbl
-[1259] Biber.pm:131> WARN - Duplicate entry key: 'bernhaupt2015game' in file 'bibliography.bib', skipping ...
-[1259] Biber.pm:131> WARN - BibTeX subsystem: C:\Users\Dustin\AppData\Local\Temp\biber_tmp_heUS\f4d088b3f9f145b5c3058da33afd57d4_30300.utf8, line 912, warning: 55 characters of junk seen at toplevel
-[1259] Biber.pm:133> INFO - WARNINGS: 2
+[125] biber-MSWIN64:340> INFO - === 
+[181] Biber.pm:419> INFO - Reading 'main.bcf'
+[375] Biber.pm:979> INFO - Found 117 citekeys in bib section 0
+[392] Biber.pm:4419> INFO - Processing section 0
+[407] Biber.pm:4610> INFO - Looking for bibtex file 'bibliography.bib' for section 0
+[484] bibtex.pm:1713> INFO - LaTeX decoding ...
+[608] bibtex.pm:1519> INFO - Found BibTeX data source 'bibliography.bib'
+[1206] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1207] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1207] Biber.pm:4239> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
+[1207] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
+[1285] bbl.pm:660> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[1348] bbl.pm:763> INFO - Output to main.bbl
+[1348] Biber.pm:131> WARN - Duplicate entry key: 'bernhaupt2015game' in file 'bibliography.bib', skipping ...
+[1348] Biber.pm:131> WARN - BibTeX subsystem: C:\Users\Dustin\AppData\Local\Temp\biber_tmp_ElKb\f4d088b3f9f145b5c3058da33afd57d4_32184.utf8, line 1033, warning: 55 characters of junk seen at toplevel
+[1348] Biber.pm:133> INFO - WARNINGS: 2

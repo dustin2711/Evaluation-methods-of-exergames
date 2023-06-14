@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.5.18)  14 JUN 2023 17:49
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.5.18)  14 JUN 2023 23:48
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1317,33 +1317,23 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--2
 ) (content.tex
 chapter 1.
 LaTeX Font Info:    Font shape `T1/XCharter-TLF/m/n' will be
-(Font)              scaled to size 12.0pt on input line 2.
+(Font)              scaled to size 12.0pt on input line 1.
 [5
 
 ] [6]
 chapter 2.
+LaTeX Font Info:    Font shape `T1/Roboto-LF/b/n' aliased to
+(Font)              `T1/Roboto-LF/bold/n' on input line 78.
+LaTeX Font Info:    Font shape `T1/Roboto-LF/bold/n' will be
+(Font)              scaled to size 12.0pt on input line 78.
 [7]
 chapter 3.
-[8]
-chapter 4.
-
-Underfull \hbox (badness 10000) in paragraph at lines 58--58
-[]\T1/XCharter-TLF/b/n/12 (+20) Impact of train-ing fre-quency of
- []
-
-[9]
-LaTeX Font Info:    Font shape `T1/Roboto-LF/b/n' aliased to
-(Font)              `T1/Roboto-LF/bold/n' on input line 85.
-LaTeX Font Info:    Font shape `T1/Roboto-LF/bold/n' will be
-(Font)              scaled to size 12.0pt on input line 85.
- [10]
-chapter 5.
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 105.
+               Default added (so using `tbp') on input line 117.
 
 
-Overfull \hbox (165.51355pt too wide) in paragraph at lines 106--115
+Overfull \hbox (165.51355pt too wide) in paragraph at lines 118--127
 [][] 
  []
 
@@ -1353,43 +1343,57 @@ Package multicol Warning: Floats and marginpars not allowed inside `multicols' e
 
 Package multicol Warning: Floats and marginpars not allowed inside `multicols' environment!.
 
-LaTeX Font Info:    Trying to load font information for TS1+XCharter-TLF on input line 136.
+LaTeX Font Info:    Trying to load font information for TS1+XCharter-TLF on input line 148.
 (C:\Users\Dustin\AppData\Local\Programs\MiKTeX\tex/latex/xcharter\ts1xcharter-tlf.fd
 File: TS1XCharter-TLF.fd 2020/05/25 (msharpe) Font definitions for TS1/XCharter-TLF.
 )
 LaTeX Font Info:    Font shape `TS1/XCharter-TLF/m/n' will be
-(Font)              scaled to size 10.95pt on input line 136.
+(Font)              scaled to size 10.95pt on input line 148.
 Package microtype Info: Character `textbardbl ' is missing
 (microtype)             in font `TS1/XCharter-TLF/m/n/10.95'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `textcelsius ' is missing
 (microtype)             in font `TS1/XCharter-TLF/m/n/10.95'.
 (microtype)             Ignoring protrusion settings for this character.
- [11{C:/Users/Dustin/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/xcharter/xch1_co4ru4.enc}]
-<PXI_vs_PENS.png, id=277, 1065.22969pt x 478.78876pt>
+ [8{C:/Users/Dustin/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/xcharter/xch1_co4ru4.enc}]
+<PXI_vs_PENS.png, id=248, 1065.22969pt x 478.78876pt>
 File: PXI_vs_PENS.png Graphic file (type png)
 <use PXI_vs_PENS.png>
-Package pdftex.def Info: PXI_vs_PENS.png  used on input line 169.
+Package pdftex.def Info: PXI_vs_PENS.png  used on input line 166.
 (pdftex.def)             Requested size: 251.07481pt x 112.85143pt.
- [12 <./PXI_vs_PENS.png>]
+ [9 <./PXI_vs_PENS.png>]
 LaTeX Font Info:    Font shape `T1/XCharter-TLF/b/n' will be
-(Font)              scaled to size 10.95pt on input line 199.
- [13] [14] [15] [16] [17]
-Underfull \hbox (badness 10000) in paragraph at lines 383--390
+(Font)              scaled to size 10.95pt on input line 196.
+ [10] [11] [12] [13] [14]
+chapter 4.
+<MET-physical-activities.png, id=400, 812.28468pt x 551.05875pt>
+File: MET-physical-activities.png Graphic file (type png)
+<use MET-physical-activities.png>
+Package pdftex.def Info: MET-physical-activities.png  used on input line 371.
+(pdftex.def)             Requested size: 251.07481pt x 170.33034pt.
+[15 <./MET-physical-activities.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 431--438
 []\T1/XCharter-TLF/m/n/10.95 (+20) Physical Ac-tiv-ity and En-ergy Ex-pen-di-ture
  []
 
 
-Overfull \hbox (44.13055pt too wide) in paragraph at lines 391--402
+Overfull \hbox (44.13055pt too wide) in paragraph at lines 439--450
 []\T1/XCharter-TLF/m/n/10.95 (-20) Cognitive Health and Func-tion *****************************
  []
 
 
-Overfull \hbox (126.86449pt too wide) in paragraph at lines 403--413
+Overfull \hbox (126.86449pt too wide) in paragraph at lines 451--461
 []\T1/XCharter-TLF/m/n/10.95 (-20) Psychological and Be-hav-ioral Mea-sures *************************************
  []
 
-[18] [19] [20]
+[16] [17] [18]
+chapter 5.
+
+Underfull \hbox (badness 10000) in paragraph at lines 526--526
+[]\T1/XCharter-TLF/b/n/12 (+20) Impact of train-ing fre-quency of
+ []
+
+[19] [20]
 chapter 6.
 [21]
 chapter 7.
@@ -1420,7 +1424,7 @@ Package microtype Info: Character `029' is missing
 (microtype)             Ignoring protrusion settings for this character.
  [25
 
-{C:/Users/Dustin/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/roboto/rbto_e24joy.enc}{C:/Users/Dustin/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/xcharter/xch_yelf2i.enc}] [26] [27] [28] [29] (appendix.tex [30]
+{C:/Users/Dustin/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/roboto/rbto_e24joy.enc}{C:/Users/Dustin/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/xcharter/xch_yelf2i.enc}] [26] [27] [28] [29] [30] (appendix.tex [31]
 chapter A.
 )
 
@@ -1428,7 +1432,7 @@ Package acro Warning: Empty acronym list. If you have used acronyms then
 (acro)                re-compile to get the list filled. Otherwise remove
 (acro)                \printacronyms
 
-[31
+[32
 
 ] (main.aux)
 Package rerunfilecheck Info: File `main.out' has not changed.
@@ -1438,17 +1442,17 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 40958 strings out of 476360
- 879957 string characters out of 5787553
- 1882993 words of memory out of 5000000
- 60327 multiletter control sequences out of 15000+600000
- 631596 words of font info for 235 fonts, out of 8000000 for 9000
+ 41022 strings out of 476360
+ 882483 string characters out of 5787553
+ 1884993 words of memory out of 5000000
+ 60371 multiletter control sequences out of 15000+600000
+ 632391 words of font info for 239 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  122i,20n,131p,11006b,3911s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/Dustin/AppData/Local/Programs/MiKTeX/fonts/type1/google/roboto/Roboto-Bold.pfb><C:/Users/Dustin/AppData/Local/Programs/MiKTeX/fonts/type1/google/roboto/Roboto-Regular.pfb><C:/Users/Dustin/AppData/Local/Programs/MiKTeX/fonts/type1/google/roboto/RobotoMono-Regular.pfb><C:/Users/Dustin/AppData/Local/Programs/MiKTeX/fonts/type1/public/xcharter/XCharter-Bold.pfb><C:/Users/Dustin/AppData/Local/Programs/MiKTeX/fonts/type1/public/xcharter/XCharter-Italic.pfb><C:/Users/Dustin/AppData/Local/Programs/MiKTeX/fonts/type1/public/xcharter/XCharter-Roman.pfb><C:/Users/Dustin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb>
-Output written on main.pdf (31 pages, 709353 bytes).
+Output written on main.pdf (32 pages, 841674 bytes).
 PDF statistics:
- 768 PDF objects out of 1000 (max. 8388607)
- 213 named destinations out of 1000 (max. 500000)
- 53135 words of extra memory for PDF output out of 61914 (max. 10000000)
+ 804 PDF objects out of 1000 (max. 8388607)
+ 226 named destinations out of 1000 (max. 500000)
+ 53140 words of extra memory for PDF output out of 61914 (max. 10000000)
 

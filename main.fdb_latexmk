@@ -1,12 +1,12 @@
 # Fdb version 4
-["biber main"] 1686757755 "main.bcf" "main.bbl" "main" 1686757780 0
-  "main.bcf" 1686757780 118279 8a30f21c903f780f029efe7e49283d7b "pdflatex"
+["biber main"] 1686778017 "main.bcf" "main.bbl" "main" 1686778999 0
+  "main.bcf" 1686778999 119080 222be4845868488cf81034b9788a75da "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1686757773 "c:/Users/Dustin/Desktop/Evalution-methods-of-exergames/main.tex" "main.pdf" "main" 1686757780 0
-  "<pdfa.xmpi" 1686757775 5317 0 ""
+["pdflatex"] 1686778992 "c:/Users/Dustin/Desktop/Evalution-methods-of-exergames/main.tex" "main.pdf" "main" 1686778999 0
+  "<pdfa.xmpi" 1686778993 5317 0 ""
   "C:/Users/Dustin/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1686586704 406948 c8f1d793815103f10c9d69150f6e96cb ""
   "C:/Users/Dustin/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1684443104 23189252 8569b2ea6f62e5781bfc6f4a35f05561 ""
   "C:/Users/Dustin/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/roboto/rbto_4jpen6.enc" 1576071230 3036 1ea92f9009c1d80ca35c3367187b071e ""
@@ -241,21 +241,22 @@
   "C:/Users/Dustin/AppData/Local/Programs/MiKTeX/tex/latex/xkeyval/xkeyval.sty" 1656236919 4937 4ce600ce9bd4ec84d0250eb6892fcf4f ""
   "C:/Users/Dustin/AppData/Local/Programs/MiKTeX/tex/latex/xmpincl/xmpincl.sty" 1633254124 2832 d498c59e94b7dfa3b4bcf74380ad6348 ""
   "C:/Users/Dustin/AppData/Local/Programs/MiKTeX/tex/latex/xstring/xstring.sty" 1673965817 123 a302f2c651a95033260db60e51527ae8 ""
+  "MET-physical-activities.png" 1686773599 216173 20dadd5135f8a04082355b956349c39b ""
   "PXI_vs_PENS.png" 1686749302 197787 261ef1d73007bbff9e334e34e022f764 ""
   "abstract.tex" 1685487433 2791 e16f9074a232d33c707ebe700c5e9422 ""
   "acronyms.tex" 1685480965 91 79acc6f418dd68d0a6893d94959f7800 ""
   "appendix.tex" 1684433474 44 1bcf16d523101078ce8cfd101cbb709f ""
-  "c:/Users/Dustin/Desktop/Evalution-methods-of-exergames/main.tex" 1686749427 3060 744643b216a06fc710433431c19be9e7 ""
-  "content.tex" 1686757748 53708 f459b33ea2d6624be1e3d03ec5943e79 ""
+  "c:/Users/Dustin/Desktop/Evalution-methods-of-exergames/main.tex" 1686778991 3054 3e86d77441019f1f1e2804d74cb09dd8 ""
+  "content.tex" 1686778009 56345 528435fd85127ccc91ccd91efab02659 ""
   "macros.tex" 1684433474 1196 8ae133728b1185016aa39c6edc5a9d76 ""
-  "main.aux" 1686757780 43174 bf2a97a3de497f6f80cd1e7f4d64193e "pdflatex"
-  "main.bbl" 1686757758 148357 e11d39d2637b9d247dce8dfbacc48856 "biber main"
-  "main.out" 1686757776 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "main.run.xml" 1686757780 2465 426cc2d17e7d8628294a3269a3ef2e43 "pdflatex"
-  "main.tex" 1686749427 3060 744643b216a06fc710433431c19be9e7 ""
-  "main.toc" 1686757780 4643 e26001cc96fa828aeefbff7bc65ca776 "pdflatex"
-  "main.xmpdata" 1686757776 121 084172e02963162b00bce9c5fda2fe83 "pdflatex"
-  "pdfa.xmpi" 1686757775 5317 212922368d8d9c9319ff22183822ce77 "pdflatex"
+  "main.aux" 1686778999 43665 d8bcff15bcd9c2ade59ad70257c8e621 "pdflatex"
+  "main.bbl" 1686778020 167515 c0024a2c9b471060b8a32c5370b75f39 "biber main"
+  "main.out" 1686778994 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "main.run.xml" 1686778999 2465 426cc2d17e7d8628294a3269a3ef2e43 "pdflatex"
+  "main.tex" 1686778991 3054 3e86d77441019f1f1e2804d74cb09dd8 ""
+  "main.toc" 1686778999 4558 6a5863a153ac4a1dd34c974db09acdd6 "pdflatex"
+  "main.xmpdata" 1686778995 121 084172e02963162b00bce9c5fda2fe83 "pdflatex"
+  "pdfa.xmpi" 1686778993 5317 deb5e9a3f8e02d3d2f04a8a135245292 "pdflatex"
   "tuda_logo.png" 1684441317 186766 ee66f55e18290744917bfea5dc351fee ""
   (generated)
   "main.aux"
