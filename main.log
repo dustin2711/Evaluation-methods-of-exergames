@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.5.18)  14 JUN 2023 23:48
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.5.18)  19 JUN 2023 23:24
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1151,7 +1151,6 @@ Package scrbase Info: activating english \institutename on input line 64.
 Package scrbase Info: activating english \authorandname on input line 64.
 Package scrbase Info: activating english \ptxcd_datename on input line 64.
 Package hyperref Info: Link coloring OFF on input line 64.
-(main.out) (main.out)
 \@outlinefile=\write5
 \openout5 = `main.out'.
 
@@ -1163,7 +1162,7 @@ Class scrreprt Info: loading recommended package `bookmark'.
 (scrreprt)           you can avoid this message adding:
 (scrreprt)             \usepackage{bookmark}
 (scrreprt)           before \begin{document} on input line 64.
- (C:\Users\Dustin\AppData\Local\Programs\MiKTeX\tex/latex/bookmark\bookmark.sty
+(C:\Users\Dustin\AppData\Local\Programs\MiKTeX\tex/latex/bookmark\bookmark.sty
 Package: bookmark 2020-11-06 v1.29 PDF bookmarks (HO)
  (C:\Users\Dustin\AppData\Local\Programs\MiKTeX\tex/latex/bookmark\bkm-pdftex.def
 File: bkm-pdftex.def 2020-11-06 v1.29 bookmark driver for pdfTeX (HO)
@@ -1195,7 +1194,26 @@ Package biblatex Info: Automatic encoding selection.
 
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' found.
- (main.bbl)
+ (main.bbl
+main.bbl:1960: Illegal parameter number in definition of \NewValue.
+<to be read again> 
+                   c
+l.1960 ...8530ca0b45c960a7c4445cd0#citing-papers}}
+                                                  
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+main.bbl:1963: Illegal parameter number in definition of \abx@field@howpublished.
+<to be read again> 
+                   c
+l.1963     \endentry
+                    
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+)
 Package biblatex Info: Reference section=0 on input line 64.
 Package biblatex Info: Reference segment=0 on input line 64.
  (C:\Users\Dustin\AppData\Local\Programs\MiKTeX\tex/latex/translations/dicts\translations-basic-dictionary-english.trsl
@@ -1302,19 +1320,22 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 {C:/Users/Dustin/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/xcharter/xch_rydp4l.enc}]
 Package tocbasic Info: character protrusion at toc deactivated on input line 83.
- (main.toc [3
 
-
-])
+No file main.toc.
 \tf@toc=\write7
 \openout7 = `main.toc'.
 
- (abstract.tex [4]
+(abstract.tex [3
+
+
+]
 Underfull \hbox (badness 10000) in paragraph at lines 2--2
 
  []
 
-) (content.tex
+) (content.tex [4
+
+]
 chapter 1.
 LaTeX Font Info:    Font shape `T1/XCharter-TLF/m/n' will be
 (Font)              scaled to size 12.0pt on input line 1.
@@ -1326,80 +1347,95 @@ LaTeX Font Info:    Font shape `T1/Roboto-LF/b/n' aliased to
 (Font)              `T1/Roboto-LF/bold/n' on input line 78.
 LaTeX Font Info:    Font shape `T1/Roboto-LF/bold/n' will be
 (Font)              scaled to size 12.0pt on input line 78.
-[7]
+[7
+
+] [8]
 chapter 3.
 
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 117.
 
+[9
 
-Overfull \hbox (165.51355pt too wide) in paragraph at lines 118--127
-[][] 
- []
-
-
-Package multicol Warning: Floats and marginpars not allowed inside `multicols' environment!.
-
-
-Package multicol Warning: Floats and marginpars not allowed inside `multicols' environment!.
-
-LaTeX Font Info:    Trying to load font information for TS1+XCharter-TLF on input line 148.
-(C:\Users\Dustin\AppData\Local\Programs\MiKTeX\tex/latex/xcharter\ts1xcharter-tlf.fd
+]
+LaTeX Font Info:    Trying to load font information for TS1+XCharter-TLF on input line 157.
+ (C:\Users\Dustin\AppData\Local\Programs\MiKTeX\tex/latex/xcharter\ts1xcharter-tlf.fd
 File: TS1XCharter-TLF.fd 2020/05/25 (msharpe) Font definitions for TS1/XCharter-TLF.
 )
 LaTeX Font Info:    Font shape `TS1/XCharter-TLF/m/n' will be
-(Font)              scaled to size 10.95pt on input line 148.
+(Font)              scaled to size 10.95pt on input line 157.
 Package microtype Info: Character `textbardbl ' is missing
 (microtype)             in font `TS1/XCharter-TLF/m/n/10.95'.
 (microtype)             Ignoring protrusion settings for this character.
 Package microtype Info: Character `textcelsius ' is missing
 (microtype)             in font `TS1/XCharter-TLF/m/n/10.95'.
 (microtype)             Ignoring protrusion settings for this character.
- [8{C:/Users/Dustin/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/xcharter/xch1_co4ru4.enc}]
-<PXI_vs_PENS.png, id=248, 1065.22969pt x 478.78876pt>
+ [10{C:/Users/Dustin/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/xcharter/xch1_co4ru4.enc}]
+<PXI_vs_PENS.png, id=197, 1065.22969pt x 478.78876pt>
 File: PXI_vs_PENS.png Graphic file (type png)
 <use PXI_vs_PENS.png>
-Package pdftex.def Info: PXI_vs_PENS.png  used on input line 166.
-(pdftex.def)             Requested size: 251.07481pt x 112.85143pt.
- [9 <./PXI_vs_PENS.png>]
+Package pdftex.def Info: PXI_vs_PENS.png  used on input line 175.
+(pdftex.def)             Requested size: 512.14963pt x 230.20319pt.
+
+Overfull \hbox (78.67418pt too wide) in paragraph at lines 174--177
+\T1/XCharter-TLF/m/n/10.95 (-20) tion co-ef-fi-cients: []
+ []
+
+[11 <./PXI_vs_PENS.png>]
 LaTeX Font Info:    Font shape `T1/XCharter-TLF/b/n' will be
-(Font)              scaled to size 10.95pt on input line 196.
- [10] [11] [12] [13] [14]
+(Font)              scaled to size 10.95pt on input line 205.
+ [12] [13] [14]
 chapter 4.
-<MET-physical-activities.png, id=400, 812.28468pt x 551.05875pt>
-File: MET-physical-activities.png Graphic file (type png)
-<use MET-physical-activities.png>
-Package pdftex.def Info: MET-physical-activities.png  used on input line 371.
-(pdftex.def)             Requested size: 251.07481pt x 170.33034pt.
-[15 <./MET-physical-activities.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 431--438
-[]\T1/XCharter-TLF/m/n/10.95 (+20) Physical Ac-tiv-ity and En-ergy Ex-pen-di-ture
- []
+content.tex:261: Illegal parameter number in definition of \abx@field@howpublished.
+<to be read again> 
+                   c
+l.261 ...emanticscholar \cite{link_borginfluence}.
+                                                   In its original form its ...
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
 
+[15
 
-Overfull \hbox (44.13055pt too wide) in paragraph at lines 439--450
-[]\T1/XCharter-TLF/m/n/10.95 (-20) Cognitive Health and Func-tion *****************************
- []
-
-
-Overfull \hbox (126.86449pt too wide) in paragraph at lines 451--461
-[]\T1/XCharter-TLF/m/n/10.95 (-20) Psychological and Be-hav-ioral Mea-sures *************************************
- []
-
-[16] [17] [18]
+] [16] [17] [18] [19]
 chapter 5.
 
-Underfull \hbox (badness 10000) in paragraph at lines 526--526
-[]\T1/XCharter-TLF/b/n/12 (+20) Impact of train-ing fre-quency of
- []
+LaTeX Warning: Citation 'biddiss2010active' on page 20 undefined on input line 403.
 
-[19] [20]
+<MET-physical-activities.png, id=410, 812.28468pt x 551.05875pt>
+File: MET-physical-activities.png Graphic file (type png)
+<use MET-physical-activities.png>
+Package pdftex.def Info: MET-physical-activities.png  used on input line 420.
+(pdftex.def)             Requested size: 512.14963pt x 347.45473pt.
+[20
+
+] [21 <./MET-physical-activities.png>] [22] [23]
+
+LaTeX Warning: Citation 'ijaz2020player' on page 24 undefined on input line 548.
+
+[24] [25]
 chapter 6.
-[21]
+
+LaTeX Warning: Citation 'ryan1982control' on page 26 undefined on input line 601.
+
+
+LaTeX Warning: Citation 'fisher1978effects' on page 26 undefined on input line 603.
+
+[26
+
+] [27]
 chapter 7.
-[22]
+[28
+
+]
 chapter 8.
-) [23] [24
+[29
+
+]
+chapter 9.
+) [30
+
+] [31
 
 
 ]
@@ -1422,9 +1458,47 @@ LaTeX Font Info:    Font shape `T1/XCharter-TLF/m/sc' will be
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/XCharter-TLF/m/sc/10.95'.
 (microtype)             Ignoring protrusion settings for this character.
- [25
+ [32
 
-{C:/Users/Dustin/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/roboto/rbto_e24joy.enc}{C:/Users/Dustin/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/xcharter/xch_yelf2i.enc}] [26] [27] [28] [29] [30] (appendix.tex [31]
+{C:/Users/Dustin/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/roboto/rbto_e24joy.enc}{C:/Users/Dustin/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/xcharter/xch_yelf2i.enc}] [33] [34]
+c:/Users/Dustin/Desktop/Evalution-methods-of-exergames/main.tex:93: Illegal parameter number in definition of \abx@field@howpublished.
+<to be read again> 
+                   c
+l.93 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+c:/Users/Dustin/Desktop/Evalution-methods-of-exergames/main.tex:93: Illegal parameter number in definition of \Hy@tempa.
+<to be read again> 
+                   c
+l.93 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+c:/Users/Dustin/Desktop/Evalution-methods-of-exergames/main.tex:93: Illegal parameter number in definition of \Hy@tempa.
+<to be read again> 
+                   c
+l.93 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+
+Overfull \hbox (32.64566pt too wide) in paragraph at lines 93--93
+[]\T1/XCharter-TLF/m/it/10.95 (-20) Semanticscholar ci-ta-tions of "psychophysical-bases-of-perceived-exertion"\T1/XCharter-TLF/m/n/10.95 (-20) , []$\T1/RobotoMono-TLF/regular/n/10.95 https : / / www . semanticscholar .
+ []
+
+
+Overfull \hbox (185.78401pt too wide) in paragraph at lines 93--93
+\T1/RobotoMono-TLF/regular/n/10.95 org / paper / Psychophysical -[] bases -[] of -[] perceived -[] exertion. -[] Borg / 0290d2de781e5b388530ca0b45c960a7c4445cd0 #
+ []
+
+[35] [36] [37] (appendix.tex [38]
 chapter A.
 )
 
@@ -1432,27 +1506,44 @@ Package acro Warning: Empty acronym list. If you have used acronyms then
 (acro)                re-compile to get the list filled. Otherwise remove
 (acro)                \printacronyms
 
-[32
+[39
 
 ] (main.aux)
-Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+
+Package rerunfilecheck Warning: File `main.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `main.out':
+(rerunfilecheck)             Before: <no file>
+(rerunfilecheck)             After:  D41D8CD98F00B204E9800998ECF8427E;0.
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                main
+(biblatex)                and rerun LaTeX afterwards.
+
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 41022 strings out of 476360
- 882483 string characters out of 5787553
- 1884993 words of memory out of 5000000
- 60371 multiletter control sequences out of 15000+600000
- 632391 words of font info for 239 fonts, out of 8000000 for 9000
+ 41113 strings out of 476360
+ 885425 string characters out of 5787553
+ 1878993 words of memory out of 5000000
+ 60420 multiletter control sequences out of 15000+600000
+ 633642 words of font info for 247 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
- 122i,20n,131p,11006b,3911s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 122i,20n,131p,11006b,3050s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/Dustin/AppData/Local/Programs/MiKTeX/fonts/type1/google/roboto/Roboto-Bold.pfb><C:/Users/Dustin/AppData/Local/Programs/MiKTeX/fonts/type1/google/roboto/Roboto-Regular.pfb><C:/Users/Dustin/AppData/Local/Programs/MiKTeX/fonts/type1/google/roboto/RobotoMono-Regular.pfb><C:/Users/Dustin/AppData/Local/Programs/MiKTeX/fonts/type1/public/xcharter/XCharter-Bold.pfb><C:/Users/Dustin/AppData/Local/Programs/MiKTeX/fonts/type1/public/xcharter/XCharter-Italic.pfb><C:/Users/Dustin/AppData/Local/Programs/MiKTeX/fonts/type1/public/xcharter/XCharter-Roman.pfb><C:/Users/Dustin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb>
-Output written on main.pdf (32 pages, 841674 bytes).
+Output written on main.pdf (39 pages, 858565 bytes).
 PDF statistics:
- 804 PDF objects out of 1000 (max. 8388607)
- 226 named destinations out of 1000 (max. 500000)
- 53140 words of extra memory for PDF output out of 61914 (max. 10000000)
+ 882 PDF objects out of 1000 (max. 8388607)
+ 262 named destinations out of 1000 (max. 500000)
+ 53228 words of extra memory for PDF output out of 61914 (max. 10000000)
 

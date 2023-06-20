@@ -1,12 +1,12 @@
 # Fdb version 4
-["biber main"] 1686778017 "main.bcf" "main.bbl" "main" 1686778999 0
-  "main.bcf" 1686778999 119080 222be4845868488cf81034b9788a75da "pdflatex"
+["biber main"] 0 "main.bcf" "main.bbl" "main" 0 -1
+  "main.bcf" 1687209895 121018 c27e53dafd676321f1c3d384f5d58dc1 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1686778992 "c:/Users/Dustin/Desktop/Evalution-methods-of-exergames/main.tex" "main.pdf" "main" 1686778999 0
-  "<pdfa.xmpi" 1686778993 5317 0 ""
+["pdflatex"] 1687209888 "c:/Users/Dustin/Desktop/Evalution-methods-of-exergames/main.tex" "main.pdf" "main" 1687209896 2
+  "<pdfa.xmpi" 1687209890 5317 0 ""
   "C:/Users/Dustin/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1686586704 406948 c8f1d793815103f10c9d69150f6e96cb ""
   "C:/Users/Dustin/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1684443104 23189252 8569b2ea6f62e5781bfc6f4a35f05561 ""
   "C:/Users/Dustin/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/roboto/rbto_4jpen6.enc" 1576071230 3036 1ea92f9009c1d80ca35c3367187b071e ""
@@ -246,17 +246,17 @@
   "abstract.tex" 1685487433 2791 e16f9074a232d33c707ebe700c5e9422 ""
   "acronyms.tex" 1685480965 91 79acc6f418dd68d0a6893d94959f7800 ""
   "appendix.tex" 1684433474 44 1bcf16d523101078ce8cfd101cbb709f ""
-  "c:/Users/Dustin/Desktop/Evalution-methods-of-exergames/main.tex" 1686778991 3054 3e86d77441019f1f1e2804d74cb09dd8 ""
-  "content.tex" 1686778009 56345 528435fd85127ccc91ccd91efab02659 ""
+  "c:/Users/Dustin/Desktop/Evalution-methods-of-exergames/main.tex" 1686824156 3058 9161eb5ad8ba62d97b9e030f7b4675c5 ""
+  "content.tex" 1687209879 66394 4f5dbe5477821ecfa40c61a2f40fc45b ""
   "macros.tex" 1684433474 1196 8ae133728b1185016aa39c6edc5a9d76 ""
-  "main.aux" 1686778999 43665 d8bcff15bcd9c2ade59ad70257c8e621 "pdflatex"
-  "main.bbl" 1686778020 167515 c0024a2c9b471060b8a32c5370b75f39 "biber main"
-  "main.out" 1686778994 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "main.run.xml" 1686778999 2465 426cc2d17e7d8628294a3269a3ef2e43 "pdflatex"
-  "main.tex" 1686778991 3054 3e86d77441019f1f1e2804d74cb09dd8 ""
-  "main.toc" 1686778999 4558 6a5863a153ac4a1dd34c974db09acdd6 "pdflatex"
-  "main.xmpdata" 1686778995 121 084172e02963162b00bce9c5fda2fe83 "pdflatex"
-  "pdfa.xmpi" 1686778993 5317 deb5e9a3f8e02d3d2f04a8a135245292 "pdflatex"
+  "main.aux" 1687209895 51504 1f307c7ee9616bc8c6f86c8a94091c7c "pdflatex"
+  "main.bbl" 1687185633 192304 01c0a17f35e6358a7c9541b287c11ae9 "biber main"
+  "main.out" 1687209891 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "main.run.xml" 1687209895 2465 43c1cbd20ae04dbc16b3289a9bb5f8be "pdflatex"
+  "main.tex" 1686824156 3058 9161eb5ad8ba62d97b9e030f7b4675c5 ""
+  "main.toc" 1687209895 5594 6020a8682fa04bf01ef8c6accc207951 "pdflatex"
+  "main.xmpdata" 1687209891 121 084172e02963162b00bce9c5fda2fe83 "pdflatex"
+  "pdfa.xmpi" 1687209890 5317 8a033050af750a2deb43839eceb8b38c "pdflatex"
   "tuda_logo.png" 1684441317 186766 ee66f55e18290744917bfea5dc351fee ""
   (generated)
   "main.aux"
@@ -269,4 +269,3 @@
   "main.xmpdata"
   "pdfa.xmpi"
   (rewritten before read)
-  "pdfa.xmpi"

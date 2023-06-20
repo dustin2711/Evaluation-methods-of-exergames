@@ -660,14 +660,6 @@ INPUT C:\Users\Dustin\AppData\Local\Programs\MiKTeX\tex\latex\microtype\mt-bch.c
 INPUT C:\Users\Dustin\AppData\Local\Programs\MiKTeX\tex\latex\microtype\mt-bch.cfg
 INPUT C:\Users\Dustin\AppData\Local\Programs\MiKTeX\tex\latex\microtype\mt-bch.cfg
 INPUT C:\Users\Dustin\AppData\Local\Programs\MiKTeX\tex\latex\microtype\mt-bch.cfg
-INPUT .\main.out
-INPUT main.out
-INPUT .\main.out
-INPUT main.out
-INPUT main.out
-INPUT main.out
-INPUT .\main.out
-INPUT .\main.out
 OUTPUT main.out
 INPUT C:\Users\Dustin\AppData\Local\Programs\MiKTeX\tex\latex\bookmark\bookmark.sty
 INPUT C:\Users\Dustin\AppData\Local\Programs\MiKTeX\tex\latex\bookmark\bookmark.sty
@@ -760,11 +752,6 @@ INPUT C:\Users\Dustin\AppData\Local\Programs\MiKTeX\fonts\tfm\public\xcharter\XC
 INPUT C:\Users\Dustin\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\xcharter\xch_rydp4l.enc
 INPUT C:\Users\Dustin\AppData\Local\Programs\MiKTeX\fonts\vf\public\xcharter\XCharter-Roman-tlf-t1.vf
 INPUT C:\Users\Dustin\AppData\Local\Programs\MiKTeX\fonts\tfm\public\xcharter\XCharter-Roman-tlf-t1--base.tfm
-INPUT .\main.toc
-INPUT main.toc
-INPUT main.toc
-INPUT C:\Users\Dustin\AppData\Local\Programs\MiKTeX\fonts\vf\google\roboto\Roboto-Bold-lf-t1.vf
-INPUT C:\Users\Dustin\AppData\Local\Programs\MiKTeX\fonts\tfm\google\roboto\Roboto-Bold-lf-t1--base.tfm
 OUTPUT main.toc
 INPUT .\abstract.tex
 INPUT .\abstract.tex
@@ -807,6 +794,8 @@ INPUT .\MET-physical-activities.png
 INPUT .\MET-physical-activities.png
 INPUT .\MET-physical-activities.png
 INPUT .\MET-physical-activities.png
+INPUT C:\Users\Dustin\AppData\Local\Programs\MiKTeX\fonts\vf\google\roboto\Roboto-Bold-lf-t1.vf
+INPUT C:\Users\Dustin\AppData\Local\Programs\MiKTeX\fonts\tfm\google\roboto\Roboto-Bold-lf-t1--base.tfm
 INPUT C:\Users\Dustin\AppData\Local\Programs\MiKTeX\tex\latex\roboto\t1robotomono-tlf.fd
 INPUT C:\Users\Dustin\AppData\Local\Programs\MiKTeX\tex\latex\roboto\t1robotomono-tlf.fd
 INPUT C:\Users\Dustin\AppData\Local\Programs\MiKTeX\tex\latex\roboto\t1robotomono-tlf.fd
